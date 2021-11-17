@@ -1,10 +1,7 @@
 ---
-layout: page
-title: Early work
+title: "Early work"
 permalink: /research/early-work
-date: 2015-06-11 09:27
-author: pennyhow
-comments: false
+author_profile: true
 ---
 <hr />
 

@@ -16,5 +16,7 @@ main:
         url: /research/phd
       - page: "Post-Doctoral"
         url: /research/post-doctoral    
+  - title: "Scientific writing"
+    url: /scientific-writing/
   - title: "CV"
     url: /cv/

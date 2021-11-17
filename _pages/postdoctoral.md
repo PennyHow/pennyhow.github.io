@@ -1,9 +1,7 @@
 ---
 title: "Post-Doctoral"
 permalink: /research/post-doctoral
-date: 2019-03-10 16:51
-author: pennyhow
-comments: false
+author_profile: true
 ---
 <p style="text-align:justify;">I was employed at the University of York as a post-doctoral researcher, working for the project <a href="https://archivalpolarphotography.wordpress.com" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;"><strong>LEAPP (Leverhulme-funded Archival Polar Photography)</strong></span></a>. LEAPP is an interdisciplinary project between the Department of Environment and Geography and the Department of Computer Science, looking at extending records of past glacier change using archive photography.</p>
 

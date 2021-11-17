@@ -1,10 +1,7 @@
 ---
-layout: page
-title: PhD
+title: "PhD"
 permalink: /research/phd
-date: 2015-06-11 09:27
-author: pennyhow
-comments: false
+author_profile: true
 ---
 <hr />
 
