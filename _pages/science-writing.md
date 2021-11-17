@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Science writing
 permalink: /science-writing/
 date: 2019-03-10 14:38

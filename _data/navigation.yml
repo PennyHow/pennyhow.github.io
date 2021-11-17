@@ -7,13 +7,14 @@ main:
     url: /tags/
   - title: "About"
     url: /about/   
-  - title: Research
+  - title: "Research"
+    url: /research/
     subfolderitems:
-      - page: Early work
+      - page: "Early work"
         url: /research/early-work
-      - page: PhD
+      - page: "PhD"
         url: /research/phd
-      - page: Post-Doctoral
+      - page: "Post-Doctoral"
         url: /research/post-doctoral    
   - title: "CV"
     url: /cv/

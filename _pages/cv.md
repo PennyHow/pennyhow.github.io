@@ -1,5 +1,4 @@
 ---
-layout: page
 title: CV
 permalink: /cv/
 date: 2015-06-10 20:13

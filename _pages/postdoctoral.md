@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Post-Doctoral
 permalink: /research/post-doctoral
 date: 2019-03-10 16:51

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Research
 permalink: /research/
 date: 2015-06-10 20:46
