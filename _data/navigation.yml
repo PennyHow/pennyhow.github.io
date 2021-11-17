@@ -1,15 +1,8 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/   
   - title: "Research"
-    url: /research/
-    subfolderitems:
+    children:
       - page: "Early work"
         url: /research/early-work
       - page: "PhD"
@@ -17,6 +10,16 @@ main:
       - page: "Post-Doctoral"
         url: /research/post-doctoral    
   - title: "Scientific writing"
-    url: /scientific-writing/
+    children:
+      - page: "Scan newspaper"
+        url: /scientific-writing/scan-newspaper
+      - page: "Space Intelligence"
+        url: /scientific-writing/space-intelligence
   - title: "CV"
     url: /cv/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
