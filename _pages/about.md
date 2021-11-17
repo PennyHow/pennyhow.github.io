@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
+permalink: /about/
 date: 2015-06-10 18:18
 author: pennyhow
-comments: true
-categories: []
+comments: false
 ---
 <p style="text-align:justify;">My name is Dr. Penny How and I am a data scientist at the Geological Survey of Greenland and Denmark (GEUS), focusing on monitoring the Greenland Ice Sheet. I graduated with a PhD in glaciology from the University of Edinburgh and the University Centre in Svalbard (UNIS) in 2018, where I was examining the dynamics of tidewater glaciers in Svalbard, primarily using time-lapse cameras and photogrammetry techniques. Within this time, I learnt to code in Python and developed an object-oriented toolbox called PyTrx for deriving measurements from terrestrial glacial imagery. I continued to develop my expertise in photogrammetry during my post-doctoral researcher position at the University of York, focusing on deriving measurements from historical imagery of glaciers. Following this, I moved to Greenland to work at Asiaq Greenland Survey as a remote sensing specialist where I focused on big data processing.</p>
 <p style="text-align:justify;">This website serves as my little corner of the internet to write about science, including glaciology, environmental change, and life in research and academia.</p>
