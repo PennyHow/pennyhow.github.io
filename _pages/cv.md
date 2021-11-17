@@ -1,5 +1,5 @@
 ---
-title: CV
+title: "CV"
 permalink: /cv/
 date: 2015-06-10 20:13
 author: pennyhow
