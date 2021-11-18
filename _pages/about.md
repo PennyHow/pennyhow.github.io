@@ -13,5 +13,5 @@ author_profile: true
 <p style="text-align:justify;"><b>Interests:</b> big data processing, terrestrial time-lapse camera set-ups and photogrammetry analysis, glacier dynamics, remote sensing, Uncrewed Aerial Vehicle (UAV) applications in glacial environments, glacier-volcano interactions in Iceland</p>
 
 
-<hr />
+<hr>
 
