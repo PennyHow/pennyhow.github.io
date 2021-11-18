@@ -1,25 +1,28 @@
 main:
-  - title: "About"
-    url: /about/   
+  - title: "Blog"
+    url: /Blog/
+  - title: "PyTrx"
+    url: /pytrx/  
   - title: "Research"
-    children:
-      - page: "Early work"
-        url: /research/early-work
-      - page: "PhD"
-        url: /research/phd
-      - page: "Post-Doctoral"
-        url: /research/post-doctoral    
+    url: /research/ 
   - title: "Scientific writing"
-    children:
-      - page: "Scan newspaper"
-        url: /scientific-writing/scan-newspaper
-      - page: "Space Intelligence"
-        url: /scientific-writing/space-intelligence
+    url: /scientific-writing/
+  - title: "About"
+    url: /about/ 
   - title: "CV"
     url: /cv/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+
+docs:
+  - title: "Blog"
+    children:
+      - title: "Categories"
+        url: /categories/
+      - title: "Year"
+        url: /posts/
+      - title: "Tags"
+        url: /tags/

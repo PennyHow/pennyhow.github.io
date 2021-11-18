@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Penny How"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data scientist at GEUS."
+  bio    : "Data scientist based in Greenland/Denmark, interested in glacier dynamics, time-lapse photogrammetry and object-oriented programming."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -93,8 +93,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
