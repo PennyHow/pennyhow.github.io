@@ -1,10 +1,8 @@
 ---
 title: "Six months working in Greenland"
 date: 2020-05-02 19:07
-categories: 
-  - Programming
-  - Remote Sensing
-  - Greenland
+categories:
+  - blog
 tags:
   - ArcticDEM
   - asiaq

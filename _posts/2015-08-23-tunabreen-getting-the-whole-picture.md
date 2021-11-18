@@ -1,10 +1,8 @@
 ---
 title: "Tunabreen"
 date: 2015-08-23 15:48
-categories: 
-  - PhD
-  - Photogrammetry
-  - Svalbard
+categories:
+  - blog
 tags:
   - calving
   - cameras

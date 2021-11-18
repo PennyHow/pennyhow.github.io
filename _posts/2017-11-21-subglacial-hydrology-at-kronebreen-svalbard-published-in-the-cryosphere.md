@@ -1,10 +1,8 @@
 ---
 title: "Subglacial hydrology at Kronebreen, Svalbard, published in The Cryosphere"
 date: 2017-11-21 13:48
-categories: 
-  - PhD
-  - Svalbard
-  - Photogrammetry
+categories:
+  - blog
 tags: 
   - glaciology
   - hydraulic potential

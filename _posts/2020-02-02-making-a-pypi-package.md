@@ -1,8 +1,8 @@
 ---
 title: "Making a PyPI package"
 date: 2020-02-02 20:35
-categories: 
-  - Programming
+categories:
+  - blog
 tags:
   - academia
   - Anaconda

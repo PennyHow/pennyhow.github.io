@@ -1,10 +1,10 @@
 main:
-  - title: "Blog"
-    url: /Blog/
+  - title: "Posts"
+    url: /posts/
+#  - title: "Research"
+#    url: /research/ 
   - title: "PyTrx"
     url: /pytrx/  
-  - title: "Research"
-    url: /research/ 
   - title: "Scientific writing"
     url: /scientific-writing/
   - title: "About"
@@ -12,17 +12,13 @@ main:
   - title: "CV"
     url: /cv/
 
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
 
-docs:
-  - title: "Blog"
-    children:
-      - title: "Categories"
-        url: /categories/
-      - title: "Year"
-        url: /posts/
-      - title: "Tags"
-        url: /tags/
+#docs:
+#  - title: "Blog"
+#    children:
+#      - title: "Categories"
+#        url: /categories/
+#      - title: "Year"
+#        url: /posts/
+#      - title: "Tags"
+#        url: /tags/

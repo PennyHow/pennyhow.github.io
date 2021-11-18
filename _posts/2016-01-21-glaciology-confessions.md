@@ -1,8 +1,8 @@
 ---
 title: "Confessions of a glaciology PhD student"
 date: 2016-01-21 22:15
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - fieldwork
   - glaciology

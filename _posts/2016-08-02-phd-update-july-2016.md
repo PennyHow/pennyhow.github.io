@@ -1,8 +1,8 @@
 ---
 title: "PhD Update: July 2016"
 date: 2016-08-02 15:51
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - cameras
   - glaciology

@@ -1,8 +1,8 @@
 ---
 title: "Moving to Greenland"
 date: 2019-11-02 15:01
-categories: 
-  - Greenland
+categories:
+  - blog
 tags:
   - academia
   - asiaq

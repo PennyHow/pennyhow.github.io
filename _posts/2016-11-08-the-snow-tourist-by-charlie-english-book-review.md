@@ -1,8 +1,8 @@
 ---
 title: "The Snow Tourist by Charlie English | Book Review"
 date: 2016-11-08 22:02
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - art
   - Book review

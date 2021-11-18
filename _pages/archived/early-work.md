@@ -1,6 +1,6 @@
 ---
 title: "Early work"
-permalink: /research/early-work
+permalink: /research/early-work/
 author_profile: true
 ---
 <hr />

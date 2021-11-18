@@ -1,8 +1,8 @@
 ---
 title: "Paulabreen"
 date: 2016-03-07 14:37
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - fieldwork
   - glaciology

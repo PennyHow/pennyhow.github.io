@@ -1,8 +1,8 @@
 ---
 title: "PhD Update: August 2016"
 date: 2016-09-05 16:28
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - calving
   - CalvingSEIS

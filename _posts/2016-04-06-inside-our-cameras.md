@@ -1,9 +1,8 @@
 ---
 title: "Inside our cameras"
 date: 2016-04-06 18:57
-categories: 
-  - PhD
-  - Photogrammetry
+categories:
+  - blog
 tags:
   - cameras
   - Canon

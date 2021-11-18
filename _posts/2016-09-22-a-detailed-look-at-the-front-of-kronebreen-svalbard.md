@@ -1,9 +1,8 @@
 ---
 title: "A detailed look at the front of Kronebreen, Svalbard"
 date: 2016-09-22 10:08
-categories: 
-  - PhD
-  - Svalbard
+categories:
+  - blog
 tags: 
   - calving
   - glacier retreat

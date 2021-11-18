@@ -2,8 +2,7 @@
 title: "Greenland-wide inventory of ice marginal lakes published in Scientific Reports"
 date: 2021-02-24 11:00
 categories:
-  - Remote Sensing
-  - Greenland
+  - blog
 tags: 
   - ArcticDEM
   - asiaq

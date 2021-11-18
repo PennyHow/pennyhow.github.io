@@ -1,9 +1,8 @@
 ---
 title: "Why study Kronebreen and other small glaciers?"
 date: 2016-05-11 22:11
-categories: 
-  - PhD
-  - Svalbard
+categories:
+  - blog
 tags: 
   - calving
   - cameras

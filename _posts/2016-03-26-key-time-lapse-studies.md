@@ -1,11 +1,8 @@
 ---
 title: "Key time-lapse studies into glacier dynamics"
 date: 2016-03-26 08:19
-categories: 
-  - PhD
-  - Svalbard
-  - Greenland 
-  - Photogrammetry
+categories:
+  - blog
 tags:  
   - calving
   - cameras

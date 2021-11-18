@@ -1,10 +1,25 @@
 ---
-layout: post
-title: Calving dynamics at Tunabreen, Svalbard, published in Annals of Glaciology
+title: "Calving dynamics at Tunabreen, Svalbard, published in Annals of Glaciology"
 date: 2019-02-06 17:17
-author: pennyhow
-comments: true
-categories: [All blog posts, Annals of Glaciology, calving, Canon, film, Film &amp; time-lapse, glacier, glacier retreat, glaciology, meltwater plume, PhD update, photography, python, research, Svalbard, time-lapse, tunabreen]
+categories:
+  - blog
+tags: 
+  - Annals of Glaciology
+  - calving
+  - Canon
+  - film
+  - time-lapse
+  - glacier
+  - glacier retreat
+  - glaciology
+  - meltwater plume
+  - PhD update
+  - photography
+  - python
+  - research
+  - Svalbard
+  - time-lapse
+  - tunabreen
 ---
 <p style="text-align:justify;">Annals of Glaciology has recently published our work examining calving dynamics at a tidewater glacier in Svalbard (<span style="text-decoration:underline;"><strong><a href="https://doi.org/10.1017/aog.2018.28" target="_blank" rel="noopener">click here</a></strong></span> to see article). In the study, <strong>we use time-lapse images captured every 3 seconds to document and analyse calving events at Tunabreen</strong> that occurred over a 30-hour period in August 2015.</p>
 

@@ -1,9 +1,8 @@
 ---
 title: "Svalbard photography (Feb-Mar 2016)"
 date: 2016-03-17 20:44
-categories: 
-  - PhD
-  - Svalbard
+categories:
+  - blog
 tags:
   - AG-325
   - AG-825

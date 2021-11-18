@@ -1,9 +1,8 @@
 ---
 title: "PhD update: November 2015"
 date: 2015-12-02 22:10
-categories: 
-  - PhD
-  - Svalbard
+categories:
+  - blog
 tags: 
   - calving
   - cameras

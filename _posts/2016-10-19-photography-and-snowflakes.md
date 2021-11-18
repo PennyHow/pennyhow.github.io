@@ -1,8 +1,8 @@
 ---
 title: "Photography and Snowflakes"
 date: 2016-10-19 22:38
-categories: 
-  - PhD
+categories:
+  - blog
 tags:
   - cameras
   - Charlie English

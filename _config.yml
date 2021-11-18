@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Dr. Penny How"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data scientist based in Greenland and Denmark, interested in glacier dynamics, time-lapse photogrammetry and object-oriented programming."
+  bio    : "Data scientist based in Greenland and Denmark, interested in glacier dynamics, photogrammetry and programming."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

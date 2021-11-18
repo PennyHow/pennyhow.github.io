@@ -1,8 +1,8 @@
 ---
 title: "PhD new year resolutions 2017"
 date: 2017-01-02 10:45
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - academia
   - anxiety

@@ -1,9 +1,8 @@
 ---
 title: "PhD Update: September 2016"
 date: 2016-09-29 22:14
-categories: 
-  - PhD
-  - Svalbard
+categories:
+  - blog
 tags: 
   - cameras
   - fieldwork

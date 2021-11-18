@@ -1,8 +1,8 @@
 ---
 title: "Ptarmigans love time-lapse cameras"
 date: 2017-04-01 10:07
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - arctic
   - bird activity

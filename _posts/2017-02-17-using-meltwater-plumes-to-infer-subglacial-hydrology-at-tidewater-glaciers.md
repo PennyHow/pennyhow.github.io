@@ -1,11 +1,8 @@
 ---
 title: "Using meltwater plumes to infer subglacial hydrology at tidewater glaciers"
 date: 2017-02-17 10:07
-categories: 
-  - PhD
-  - Svalbard
-  - Greenland
-  - Photogrammetry
+categories:
+  - blog
 tags: 
   - cameras
   - glacier

@@ -1,9 +1,8 @@
 ---
 title: "How time-lapse photography works in the study of glacial processes"
 date: 2016-12-06 10:34
-categories: 
-  - PhD
-  - Photogrammetry
+categories:
+  - blog
 tags: 
   - Film 
   - time-lapse

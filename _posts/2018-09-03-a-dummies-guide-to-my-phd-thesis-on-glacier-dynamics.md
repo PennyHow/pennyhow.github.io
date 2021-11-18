@@ -1,10 +1,8 @@
 ---
 title: "A dummies guide to... my PhD thesis on glacier dynamics"
 date: 2018-09-03 12:47
-categories: 
-  - PhD
-  - Svalbard
-  - Photogrammetry
+categories:
+  - blog
 tags: 
   - Annals of Glaciology
   - glaciology

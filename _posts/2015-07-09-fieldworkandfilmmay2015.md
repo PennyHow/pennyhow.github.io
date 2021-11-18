@@ -2,9 +2,7 @@
 title: "Fieldwork & Film"
 date: 2015-07-09 15:50
 categories:
-  - PhD
-  - Photogrammetry
-  - Svalbard
+  - blog
 tags:
   - calving
   - fieldwork 

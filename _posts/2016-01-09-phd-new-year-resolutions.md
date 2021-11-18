@@ -1,8 +1,8 @@
 ---
 title: "PhD new year resolutions"
 date: 2016-01-09 22:53
-categories: 
-  - PhD
+categories:
+  - blog
 categories: 
   - cameras
   - fieldwork

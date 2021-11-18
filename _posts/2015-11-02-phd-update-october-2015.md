@@ -1,10 +1,8 @@
 ---
 title: "PhD update: October 2015"
 date: 2015-11-02 20:38
-categories: 
-  - PhD
-  - Iceland
-  - Photogrammetry
+categories:
+  - blog
 tags: 
   - cameras
   - fieldwork

@@ -1,8 +1,8 @@
 ---
 title: "A PhD student's views on the EU referendum"
 date: 2016-06-29 17:45
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - academia
   - Brexit

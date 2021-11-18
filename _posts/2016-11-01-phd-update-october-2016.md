@@ -1,10 +1,8 @@
 ---
 title: "PhD Update: October 2016"
 date: 2016-11-01 12:06
-categories: 
-  - PhD
-  - Svalbard
-  - Photogrammetry
+categories:
+  - blog
 tags:
   - cameras
   - glaciology

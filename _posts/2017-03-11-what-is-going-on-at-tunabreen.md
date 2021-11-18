@@ -1,8 +1,8 @@
 ---
 title: "What is going on at Tunabreen?"
 date: 2017-03-11 09:32
-categories: 
-  - PhD
+categories:
+  - blog
 tags: 
   - glacier
   - glaciology

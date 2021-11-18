@@ -1,10 +1,8 @@
 ---
 title: "PyTrx published in Frontiers in Earth Science"
 date: 2020-02-13 11:09
-categories: 
-  - PhD
-  - Photogrammetry
-  - Svalbard
+categories:
+  - blog
 tags: 
   - academia
   - camera

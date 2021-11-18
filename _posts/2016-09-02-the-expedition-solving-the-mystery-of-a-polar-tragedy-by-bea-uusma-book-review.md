@@ -1,9 +1,8 @@
 ---
 title: "The Expedition: Solving the Mystery of a Polar Tragedy by Bea Uusma | Book Review"
 date: 2016-09-02 09:41
-categories: 
-  - PhD
-  - Svalbard
+categories:
+  - blog
 tags: 
   - Andrée
   - Bea Uusma

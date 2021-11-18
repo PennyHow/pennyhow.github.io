@@ -1,6 +1,6 @@
 ---
 title: Space Intelligence
-permalink: /scientific-writing/space-intelligence
+permalink: /scientific-writing/space-intelligence/
 author_profile: true
 ---
 <p style="text-align:justify;">I was hired by <span style="text-decoration:underline;"><strong><a href="https://www.space-intelligence.com" target="_blank" rel="noopener noreferrer">Space Intelligence</a></strong></span> in 2018 to write a series of articles as a guest contributor on the role of remote sensing in monitoring environmental change. This included an introduction to remote sensing for non-scientific audiences, the importance of traceability in palm oil production, and an examination of known Unilever-associated palm oil mills with deforestation. Links to the full articles are provided below:</p>

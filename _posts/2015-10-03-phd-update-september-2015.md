@@ -1,9 +1,8 @@
 ---
 title: "PhD update: September 2015"
 date: 2015-10-03 18:00
-categories: 
-  - PhD
-  - Svalbard
+categories:
+  - blog
 tags: 
   - cameras
   - fieldwork

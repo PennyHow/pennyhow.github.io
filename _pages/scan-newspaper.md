@@ -1,6 +1,6 @@
 ---
 title: "SCAN newspaper"
-permalink: /scientific-writing/scan-newspaper
+permalink: /scientific-writing/scan-newspaper/
 author_profile: true
 ---
 <p style="text-align:justify;">I wrote articles for the <span style="text-decoration:underline;"><strong><a href="https://scan.lusu.co.uk/" target="_blank" rel="noopener noreferrer">Lancaster University student newspaper, SCAN</a></strong></span>, as an international correspondent in 2011-2012. I wrote a regular column called 'Emails from Australia' on the perspective of a British student studying in Australia, whilst I was undertaking undergraduate studies at the University of Wollongong.</p>
