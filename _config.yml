@@ -92,6 +92,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: false
       comments: false
@@ -102,7 +103,8 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
+      classes: wide
       author_profile: true
 
 category_archive:
