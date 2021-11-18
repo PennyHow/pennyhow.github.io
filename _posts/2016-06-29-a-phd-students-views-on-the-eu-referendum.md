@@ -1,10 +1,16 @@
 ---
-layout: post
-title: A PhD student's views on the EU referendum
+title: "A PhD student's views on the EU referendum"
 date: 2016-06-29 17:45
-author: pennyhow
-comments: true
-categories: [academia, All blog posts, Brexit, EU, glaciology, phd, referendum, research, Uncategorized]
+categories: 
+  - PhD
+tags: 
+  - academia
+  - Brexit
+  - EU
+  - glaciology
+  - PhD
+  - referendum
+  - research
 ---
 <p style="text-align:justify;">Last week the UK decided to leave the EU. Like many others (16,141,241 people to be exact), I voted to remain in the EU. One of the main reasons I personally voted to remain is because I wish to pursue a career in academia, which the EU helped facilitate up until now. As a PhD student at the University of Edinburgh, I am on the receiving end of many benefits that the EU provides for scientific research in the UK. A high majority of researchers also see these benefits, with 83% of UK academics wishing to remain in the EU (source: <span style="text-decoration:underline;"><strong><a href="http://www.nature.com/news/scientists-say-no-to-uk-exit-from-europe-in-nature-poll-1.19636" target="_blank">Nature</a></strong></span>). The exit from the EU has consequences for certain aspects of UK research:</p>
 

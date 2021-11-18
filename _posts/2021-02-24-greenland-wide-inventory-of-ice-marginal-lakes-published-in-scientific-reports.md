@@ -1,10 +1,29 @@
 ---
-layout: post
-title: Greenland-wide inventory of ice marginal lakes published in Scientific Reports
+title: "Greenland-wide inventory of ice marginal lakes published in Scientific Reports"
 date: 2021-02-24 11:00
-author: pennyhow
-comments: true
-categories: [All blog posts, ArcticDEM, asiaq, Asiaq Greenland Survey, CCI, ESA, glaciology, GLOF, Greenland, Greenland Ice Sheet, hydrology, ice-marginal lakes, Inderhytten, Kangaarssuup Tasersua, lakes, Programming, remote sensing, sea level, Sentinel, SnapPlanet]
+categories:
+  - Remote Sensing
+  - Greenland
+tags: 
+  - ArcticDEM
+  - asiaq
+  - Asiaq Greenland Survey
+  - CCI
+  - ESA
+  - glaciology
+  - GLOF
+  - Greenland
+  - Greenland Ice Sheet
+  - hydrology
+  - ice-marginal lakes
+  - Inderhytten
+  - Kangaarssuup Tasersua
+  - lakes
+  - Programming
+  - remote sensing
+  - sea level
+  - Sentinel
+  - SnapPlanet
 ---
 <!-- wp:paragraph {"align":"justify"} -->
 <p class="has-text-align-justify">This month <strong><span style="text-decoration:underline;"><a href="https://www.nature.com/articles/s41598-021-83509-1" target="_blank" rel="noreferrer noopener">we published findings from our work on Greenland's ice marginal lakes</a></span></strong>. This work are part of the <a rel="noreferrer noopener" href="https://climate.esa.int/en/projects/glaciers/" target="_blank"><strong><span style="text-decoration:underline;">ESA Glaciers CCI (Climate Change Initiative)</span></strong></a>, focused on producing a Greenland-wide inventory of ice marginal lakes as a benchmark dataset; also referred to as an Essential Climate Variable. The publication is the culmination of a lot of dedicated work from individuals in the project, pooling together specialist knowledge on classifying ice marginal lakes through various remote sensing approaches.</p>

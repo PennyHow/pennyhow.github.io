@@ -1,10 +1,23 @@
 ---
-layout: post
-title: Ptarmigans love time-lapse cameras!
+title: "Ptarmigans love time-lapse cameras"
 date: 2017-04-01 10:07
-author: pennyhow
-comments: true
-categories: [All blog posts, arctic, bird activity, birds, Canon, Kongsfjorden, kronebreen, Ny Alesund, phd, photography, ptarmigan, research, Svalbard, time-lapse, wildlife]
+categories: 
+  - PhD
+tags: 
+  - arctic
+  - bird activity
+  - birds
+  - Canon
+  - Kongsfjorden
+  - kronebreen
+  - Ny Alesund
+  - PhD
+  - photography
+  - ptarmigan
+  - research
+  - Svalbard
+  - time-lapse
+  - wildlife
 ---
 [caption id="attachment_7269" align="aligncenter" width="5184"]<img class="alignnone size-full wp-image-7269" src="https://pennyhow.files.wordpress.com/2017/03/img_2837.jpg" alt="Ptarmigan at Kronebreen 01" width="5184" height="3456" /> We have been setting up time-lapse cameras in Kongsfjorden, Svalbard since 2014 to observe glacier change over time. Ptarmigans have been known to nest by these cameras. One particular camera is their favourite! This camera was set up on a rocky outcrop called Garwoodtoppen to measure velocities over Kronebreen glacier. [/caption]
 

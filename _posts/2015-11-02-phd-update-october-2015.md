@@ -1,10 +1,20 @@
 ---
-layout: post
-title: PhD update: October 2015
+title: "PhD update: October 2015"
 date: 2015-11-02 20:38
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, fieldwork, glaciology, iceland, Katla, PhD update, research, time-lapse, volcanology]
+categories: 
+  - PhD
+  - Iceland
+  - Photogrammetry
+tags: 
+  - cameras
+  - fieldwork
+  - glaciology
+  - iceland
+  - Katla
+  - PhD update
+  - research
+  - time-lapse
+  - volcanology
 ---
 <h4>PhD update: Returning from Svalbard and installing time-lapse cameras in Iceland</h4>
 This month has been varied. I started the beginning of October with my last couple of days in Svalbard, which I largely spent de-stressing following from my teaching days at UNIS. I didn't rest for too long though as after returning from Svalbard, an opportunity opened up to further our work in Iceland and install two time-lapse cameras at Höfðabrekkujökull.

@@ -1,10 +1,20 @@
 ---
-layout: post
-title: PhD update: June 2016
+title: "PhD update: June 2016"
 date: 2016-07-02 22:18
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, glaciology, kronebreen, phd, PhD update, PyTrx, research, supraglacial lake drainage, Svalbard, time-lapse]
+categories: 
+  - PhD
+  - Svalbard
+  - Photogrammetry
+tags: 
+  - cameras
+  - glaciology
+  - kronebreen
+  - PhD
+  - PyTrx
+  - research
+  - supraglacial lake drainage
+  - Svalbard
+  - time-lapse
 ---
 <h5 style="text-align:justify;">I have spent this month focused on developing PyTrx, our analysis software for oblique time-lapse image sequences. In particular, I have been working on a set of functions that will automatically detect areal features in glacial environments, such as surface lakes and submarine plumes, and transform pixel regions to real world areas. I have been testing this on an image sequence from Kronebreen glacier in Svalbard, where we captured several surface lakes filling and draining over a summer melt season.</h5>
 <p style="text-align:justify;">June kicked off to bad start when I agitated an old knee injury whilst at the gym. I've had bad knees for a large part of my life and thought most of the problem had been sorted after surgery in 2008. Unfortunately I am now looking at intensive physiotherapy and perhaps another round of surgery after rupturing a ligament... so I have been off my feet for a lot of this month.</p>

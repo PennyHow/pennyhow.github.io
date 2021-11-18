@@ -1,10 +1,22 @@
 ---
-layout: post
-title: Six months working in Greenland
+title: "Six months working in Greenland"
 date: 2020-05-02 19:07
-author: pennyhow
-comments: true
-categories: [All blog posts, ArcticDEM, asiaq, ESA, Greenland, Greenland update, ice-marginal lakes, python, remote sensing, satellite, Sentinel, supraglacial lake, supraglacial lake drainage]
+categories: 
+  - Programming
+  - Remote Sensing
+  - Greenland
+tags:
+  - ArcticDEM
+  - asiaq
+  - ESA
+  - Greenland
+  - ice-marginal lakes
+  - python
+  - remote sensing
+  - satellite
+  - Sentinel
+  - supraglacial lake
+  - supraglacial lake drainage
 ---
 <p style="text-align:justify;">Since starting work in Greenland, we have had a handful of interesting projects which started before I arrived . Thankfully these projects have been related to the cryosphere, so I have been able to throw myself into them. As I was hired primarily for my knowledge of programming, my main tasks in these projects thus far have been automating and running batch processing for big satellite data.</p>
 <p style="text-align:justify;">Firstly, we have been finalising an ESA project looking at <strong>ice-marginal lakes in Greenland</strong>, creating an inventory for the whole of Greenland as well as generating time-series datasets for a select few ice-marginal lakes in SW Greenland. <strong>A remote sensing approach is used to identify these lakes</strong>, using three different methods for validation from Sentinel-1 (radar) imagery, Sentinel-2 (optical) imagery, and ArcticDEM (3D elevation model).</p>

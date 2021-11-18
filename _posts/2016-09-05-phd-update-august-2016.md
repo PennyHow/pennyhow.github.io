@@ -1,10 +1,22 @@
 ---
-layout: post
-title: PhD Update: August 2016
+title: "PhD Update: August 2016"
 date: 2016-09-05 16:28
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, CalvingSEIS, cameras, fieldwork, glaciology, kronebreen, lidar, phd, PhD update, PyTrx, radar, research, Svalbard, time-lapse]
+categories: 
+  - PhD
+tags: 
+  - calving
+  - CalvingSEIS
+  - cameras
+  - fieldwork
+  - glaciology
+  - kronebreen
+  - lidar
+  - PhD
+  - PyTrx
+  - radar
+  - research
+  - Svalbard
+  - time-lapse
 ---
 <p style="text-align:justify;">The month started with troubleshooting ongoing uncertainties with projection of measurements from the two-dimensional image coordinates to real-world positions. This is a crucial step in photogrammetry for gaining measurements from images.</p>
 

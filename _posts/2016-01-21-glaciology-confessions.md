@@ -1,10 +1,13 @@
 ---
-layout: post
-title: Confessions of a glaciology PhD student
+title: "Confessions of a glaciology PhD student"
 date: 2016-01-21 22:15
-author: pennyhow
-comments: true
-categories: [All blog posts, fieldwork, glaciology, research, Svalbard, Uncategorized]
+categories: 
+  - PhD
+tags: 
+  - fieldwork
+  - glaciology
+  - research
+  - Svalbard
 ---
 <h5 style="text-align:left;">Amusing excerpts from the diary of second-year glaciology PhD student</h5>
 <p style="text-align:justify;">I have come to the end of the second year of my PhD this January. It's been a great year, and I have been recording a lot of it in my work diary. For nostalgia's sake, and to celebrate the calamities and bizarre situations experienced, I thought I would share some of my more humorous diary snippits from the past year.</p>

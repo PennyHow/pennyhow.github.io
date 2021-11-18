@@ -1,10 +1,13 @@
 ---
-layout: post
-title: How time-lapse photography works in the study of glacial processes
+title: "How time-lapse photography works in the study of glacial processes"
 date: 2016-12-06 10:34
-author: pennyhow
-comments: true
-categories: [All blog posts, Film &amp; time-lapse, PhD update]
+categories: 
+  - PhD
+  - Photogrammetry
+tags: 
+  - Film 
+  - time-lapse
+  - PhD 
 ---
 <h5 style="text-align:justify;"><span style="text-decoration:underline;">PhD update: November 2016.</span> Whilst preparing a talk for the Geography research seminar series at the University of Manchester, I decided to include some information on time-lapse methods in glaciology to help introduce the topic.  Within this, I wanted to convey how different glacial processes were visible at specific image intervals. By constructing image sequences with various intervals, I could effectively show the processes that occur at the front of glacier and how different processes operate on different time-scales.</h5>
 [caption id="attachment_696" align="aligncenter" width="4912"]<img class="alignnone size-full wp-image-696" src="https://pennyhow.files.wordpress.com/2015/08/cam2_02-e1440344681765.jpg" alt="A time-lapse camera installed at Ultunafjella, overlooking the calving front of Tunabreen (August 2015)" width="4912" height="2333" /> One of our time-lapse cameras looking at the calving front of Tunabreen, a surge-type glacier in Svalbard. This camera remained here taking photos every 10 minutes between August 2015 and September 2016. This camera collected 24,136 images in total.[/caption]

@@ -1,10 +1,21 @@
 ---
-layout: post
-title: Making a PyPI package
+title: "Making a PyPI package"
 date: 2020-02-02 20:35
-author: pennyhow
-comments: true
-categories: [academia, All blog posts, Anaconda, conda, github, pip, Programming, PyPI, python, PyTrx, research, TestPyPI, velocity]
+categories: 
+  - Programming
+tags:
+  - academia
+  - Anaconda
+  - conda
+  - github
+  - pip
+  - Programming
+  - PyPI
+  - python
+  - PyTrx
+  - research
+  - TestPyPI
+  - velocity
 ---
 <p style="text-align:justify;">Recently, I have had a paper accepted which presents PyTrx, a new Python toolset for use in glacial photogrammetry. Over the course of getting this published, it has been suggested by co-authors and reviewers alike to use a package manager for easy download and implementation of PyTrx. <strong>I therefore wanted to package the toolset up for distribution via PyPI ('pip'),</strong> thus making is easily accessible to other Python users with the simple command <code>pip install pytrx</code>. Whilst I found the tutorials online informative, there were some pitfalls which I found hard to solve with the given information. So here is an account of how I got my package on PyPI. The associated files for the PyTrx package are available on a branch of <a href="https://github.com/PennyHow/PyTrx/tree/distribution" target="_blank" rel="noopener"><strong><span style="text-decoration:underline;">PyTrx's GitHub </span><span style="text-decoration:underline;"><strong>repository</strong>,</span></strong></a> if you want to see this walkthrough in action.</p>
 

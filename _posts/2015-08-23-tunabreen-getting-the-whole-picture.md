@@ -1,10 +1,18 @@
 ---
-layout: post
-title: Tunabreen
+title: "Tunabreen"
 date: 2015-08-23 15:48
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, cameras, fieldwork, glaciology, research, Svalbard, tunabreen]
+categories: 
+  - PhD
+  - Photogrammetry
+  - Svalbard
+tags:
+  - calving
+  - cameras
+  - fieldwork
+  - glaciology
+  - research 
+  - Svalbard
+  - tunabreen
 ---
 [caption id="attachment_699" align="aligncenter" width="660"]<img class="size-large wp-image-699" src="https://pennyhow.files.wordpress.com/2015/08/dsc09213-e1440344218480.jpg?w=660" alt="Tunabreen (August 2015)" width="660" height="319" /> Tunabreen (August 2015)[/caption]
 

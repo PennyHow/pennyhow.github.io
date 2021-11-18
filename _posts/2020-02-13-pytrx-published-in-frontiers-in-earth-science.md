@@ -1,10 +1,32 @@
 ---
-layout: post
-title: PyTrx published in Frontiers in Earth Science
+title: "PyTrx published in Frontiers in Earth Science"
 date: 2020-02-13 11:09
-author: pennyhow
-comments: true
-categories: [academia, All blog posts, camera, Frontiers, github, ice velocity, meltwater plume, open-source, photogrammetry, photography, pip install, Programming, publication, PyPI, python, PyTrx, readthedocs, research, Svalbard, terminus position, tidewater glacier, time-lapse]
+categories: 
+  - PhD
+  - Photogrammetry
+  - Svalbard
+tags: 
+  - academia
+  - camera
+  - Frontiers
+  - github
+  - ice velocity
+  - meltwater plume
+  - open-source
+  - photogrammetry
+  - photography
+  - pip install
+  - Programming
+  - publication
+  - PyPI
+  - python
+  - PyTrx
+  - readthedocs
+  - research
+  - Svalbard
+  - terminus position
+  - tidewater glacier
+  - time-lapse
 ---
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong><a href="https://dx.doi.org/10.3389/feart.2020.00021" target="_blank" rel="noopener">Frontiers in Earth Science recently published our work on PyTrx</a></strong></span>, the Python toolset developed during my PhD for processing oblique time-lapse imagery of glacial environments. The toolset is freely available via <span style="text-decoration:underline;"><strong><a href="https://pypi.org/project/pytrx/" target="_blank" rel="noopener">pip install</a></strong></span> and <span style="text-decoration:underline;"><strong><a href="https://github.com/PennyHow/PyTrx" target="_blank" rel="noopener">GitHub</a></strong></span>, and <strong>this paper serves as its companion piece to inform users of its capabilities and applications</strong>.</p>
 

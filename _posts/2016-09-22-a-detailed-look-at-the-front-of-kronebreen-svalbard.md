@@ -1,10 +1,20 @@
 ---
-layout: post
-title: A detailed look at the front of Kronebreen, Svalbard
+title: "A detailed look at the front of Kronebreen, Svalbard"
 date: 2016-09-22 10:08
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, glacier retreat, glaciology, ice, Kongsfjorden, kronebreen, photography, Sony NEX-5R, submarine plume, Svalbard]
+categories: 
+  - PhD
+  - Svalbard
+tags: 
+  - calving
+  - glacier retreat
+  - glaciology
+  - ice
+  - Kongsfjorden
+  - kronebreen
+  - photography
+  - Sony NEX-5R
+  - submarine plume
+  - Svalbard
 ---
 <h5 style="text-align:justify;">Thanks to some nice boat trips this September (and a good zoom lens on my camera*), we were able to take a detailed look at the calving front of Kronebreen, a fast-flowing glacier which terminates into Kongsfjorden, an inlet on the west coast of Svalbard. Since 2011, Kronebreen has been retreating significantly faster (approx. 100m per year) and the front (where the ice meets the fjord water) has changed drastically. What is interesting is that the calving front does not appear uniform - the distinctiveness of each section indicates that different processes are active. If this intrigues you then please read on! If not, then sit back, relax, and enjoy the pictures at least!</h5>
 <p style="text-align:justify;"><em>All photos were taken on the Sony NEX-5R with the Sony E 55-210 mm f/4.3-6.3 lens and the Sony E 20 mm f/2.8 lens.</em></p>

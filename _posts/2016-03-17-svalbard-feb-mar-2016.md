@@ -1,10 +1,17 @@
 ---
-layout: post
-title: Svalbard photography (Feb-Mar 2016)
+title: "Svalbard photography (Feb-Mar 2016)"
 date: 2016-03-17 20:44
-author: pennyhow
-comments: true
-categories: [AG-325, AG-825, All blog posts, glaciology, mohnbukta, Svalbard, tunabreen, UNIS]
+categories: 
+  - PhD
+  - Svalbard
+tags:
+  - AG-325
+  - AG-825
+  - glaciology
+  - mohnbukta
+  - Svalbard
+  - tunabreen
+  - UNIS
 ---
 <h4 style="text-align:justify;">For the past month I have been in Svalbard, demonstrating on the Glaciology course (AG-325/825) at the University Centre in Svalbard (UNIS). The course is aimed at Masters and PhD students who want a taste of the Arctic, consisting of four weeks of glaciology lectures  and weekly excursions to glaciers in the local area. I have been supporting the logistical side of the weekly excursions, with the odd bit of teaching here and there. The course ran very successfully and everyone seemed to thoroughly enjoy themselves. Here are a few photos from the course...</h4>
 [caption id="attachment_2253" align="aligncenter" width="4912"]<img class="alignnone size-full wp-image-2253" src="https://pennyhow.files.wordpress.com/2016/03/dsc00740.jpg" alt="The sun rising in Rindersbukta. The sun first rose after the dark season in early March and has created beautiful lighting for the rest of the month (March 2016)" width="4912" height="3264" /> The sun rising over Rindersbukta, taken during the third week of the course. The sun first rose after the dark season in early March and has created beautiful lighting for the rest of the month...[/caption]

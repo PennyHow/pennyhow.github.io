@@ -1,10 +1,20 @@
 ---
-layout: post
-title: PhD update: December 2015
+title: "PhD update: December 2015"
 date: 2016-01-06 10:58
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, cameras, glaciology, kronebreen, PhD update, research, Svalbard, time-lapse, tunabreen]
+categories: 
+  - PhD
+  - Svalbard
+  - Photogrammetry
+tags: 
+  - calving
+  - cameras
+  - glaciology
+  - kronebreen
+  - PhD update
+  - research
+  - Svalbard
+  - time-lapse
+  - tunabreen
 ---
 <h4>PhD update: examining calving behaviours at two glaciers in Svalbard</h4>
 Kronebreen and Tunabreen are two tidewater glaciers in Svalbard that exhibit very different calving behaviours. By calving 'behaviour', I mean the type of calving that occurs, and the magnitude and frequency of events. Whilst placing time lapse cameras at these two glaciers to look at longer-term calving rates, we also experimented with high-resolution time lapse photography, setting cameras to take photos every three seconds of the calving front.

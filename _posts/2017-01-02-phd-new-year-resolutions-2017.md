@@ -1,10 +1,24 @@
 ---
-layout: post
-title: PhD new year resolutions 2017
+title: "PhD new year resolutions 2017"
 date: 2017-01-02 10:45
-author: pennyhow
-comments: true
-categories: [academia, All blog posts, anxiety, egu, glacier, glaciology, Kongsfjorden, kronebreen, phd, PhD update, photogrammetry, photography, research, stress, Svalbard, time-lapse, vienna]
+categories: 
+  - PhD
+tags: 
+  - academia
+  - anxiety
+  - egu
+  - glacier
+  - glaciology
+  - Kongsfjorden
+  - kronebreen
+  - PhD
+  - photogrammetry
+  - photography
+  - research
+  - stress
+  - Svalbard
+  - time-lapse
+  - vienna
 ---
 <h5 style="text-align:justify;">At the beginning of 2016, I set myself five new year resolutions specifically relating to my PhD work. Now it is the end of the year, I thought I would review these resolutions and set new ones for 2017.</h5>
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong>2016 PhD resolution review</strong></span></p>

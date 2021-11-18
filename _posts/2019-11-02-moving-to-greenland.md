@@ -1,10 +1,17 @@
 ---
-layout: post
-title: Moving to Greenland
+title: "Moving to Greenland"
 date: 2019-11-02 15:01
-author: pennyhow
-comments: true
-categories: [academia, All blog posts, asiaq, Greenland, kalaallit, lifeinnuuk, nuuk, phd, remotesensing, update]
+categories: 
+  - Greenland
+tags:
+  - academia
+  - asiaq
+  - Greenland
+  - kalaallit
+  - lifeinnuuk
+  - nuuk
+  - remotesensing
+  - update
 ---
 <p style="text-align:justify;">It's been a while since I used this platform to post an update. A lot has changed in the past year. For one, I now live in Nuuk, the capital city of Greenland. Greenland (or Kalaallit Nunaat in Greenlandic) is a self-governing region within the Kingdom of Denmark, having been granted self-government in 2009. It has the lowest population density in the world*, with just ~17,000 people living in the capital city of Nuuk.</p>
 <p style="text-align:justify;">Nuuk is a weird and wonderful place to live in. I have already built a strong repertoire of funny anecdotes from trying to navigate my first month of living here - from being asked 'do you have any meat or fish?' before getting in a taxi, to watching icebergs float past my house in the fjord. It was a big step to make this move, and so far it's been absolutely worth it.</p>

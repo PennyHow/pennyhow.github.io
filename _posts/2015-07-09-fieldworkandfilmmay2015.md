@@ -1,10 +1,18 @@
 ---
-layout: post
-title: Fieldwork & Film
+title: "Fieldwork & Film"
 date: 2015-07-09 15:50
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, fieldwork, film, Film &amp; time-lapse, glaciology, kronebreen, Svalbard, time-lapse]
+categories:
+  - PhD
+  - Photogrammetry
+  - Svalbard
+tags:
+  - calving
+  - fieldwork 
+  - film
+  - time-lapse
+  - glaciology
+  - kronebreen 
+  - Svalbard
 ---
 [embed]https://www.youtube.com/watch?v=-RvSi6l1oTI[/embed]
 <b>The Fieldwork</b>

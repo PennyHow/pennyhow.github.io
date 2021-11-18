@@ -1,10 +1,24 @@
 ---
-layout: post
-title: Key time-lapse studies into glacier dynamics
+title: "Key time-lapse studies into glacier dynamics"
 date: 2016-03-26 08:19
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, cameras, Film &amp; time-lapse, glaciology, helheim, jakobshavn isbræ, literature, paulabreen, research, supraglacial lake drainage, time-lapse]
+categories: 
+  - PhD
+  - Svalbard
+  - Greenland 
+  - Photogrammetry
+tags:  
+  - calving
+  - cameras
+  - film
+  - time-lapse
+  - glaciology
+  - helheim
+  - jakobshavn
+  - literature
+  - paulabreen
+  - research
+  - supraglacial lake drainage
+  - time-lapse
 ---
 [caption id="attachment_1596" align="aligncenter" width="4592"]<img class="alignnone size-full wp-image-1596" src="https://pennyhow.files.wordpress.com/2016/01/p1030942.jpg" alt="Camera sites 8a and 8b at Kronebreen, Svalbard (May 2015)" width="4592" height="3448" /> Two of our stereo time-lapse cameras (cameras 8a and 8b) at Kronebreen glacier (Svalbard), which were installed as part of the <strong><span style="text-decoration:underline;"><a href="http://www.researchinsvalbard.no/project/7037" target="_blank">CRIOS (Calving Rates and Impact On Sea level)</a></span></strong> project. These cameras were focused on the front of the calving front to look at surface velocities at the glacier terminus in comparison to calving rate (May 2015)[/caption]
 <p style="text-align:justify;">I have been nearing the end of writing the first chapter of my thesis which is an overview of photogrammetry techniques in glaciology with particular focus of time-lapse photogrammetry. Whilst writing this chapter, I have had to review all previous studies which use time-lapse photography. I found that still a large proportion of studies are developing photogrammetry techniques, and there are only a few studies which actually use the techniques to answer the big questions in glaciology. I thought I would share a list of the key papers that use time-lapse photogrammetry to examine different aspects of glacier dynamics... (if there are studies you think I have missed off this list then please contact me, I'm always looking out for more!)</p>

@@ -1,10 +1,31 @@
 ---
-layout: post
-title: A dummies guide to... my PhD thesis on glacier dynamics
+title: "A dummies guide to... my PhD thesis on glacier dynamics"
 date: 2018-09-03 12:47
-author: pennyhow
-comments: true
-categories: [All blog posts, Annals of Glaciology, glaciology, hydrology, ice-ocean interactions, kronebreen, meltwater plume, phd, PhD update, photogrammetry, photography, Programming, python, PyTrx, research, subglacial, Svalbard, The Cryosphere, time-lapse, tunabreen, UNIS, University of Edinburgh]
+categories: 
+  - PhD
+  - Svalbard
+  - Photogrammetry
+tags: 
+  - Annals of Glaciology
+  - glaciology
+  - hydrology
+  - ice-ocean interactions
+  - kronebreen
+  - meltwater plume
+  - PhD
+  - photogrammetry
+  - photography
+  - Programming
+  - python
+  - PyTrx
+  - research
+  - subglacial
+  - Svalbard
+  - The Cryosphere
+  - time-lapse
+  - tunabreen
+  - UNIS
+  - University of Edinburgh
 ---
 <p style="text-align:justify;">Recently my PhD thesis was made available online through the Edinburgh Research Archive, titled 'Dynamical change at tidewater glaciers examined using time-lapse photogrammetry'. The thesis is 342 pages long which would be a marathon to get through for anyone, so here is a short synthesis.</p>
 

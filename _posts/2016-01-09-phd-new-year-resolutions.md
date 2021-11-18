@@ -1,10 +1,21 @@
 ---
-layout: post
-title: PhD new year resolutions
+title: "PhD new year resolutions"
 date: 2016-01-09 22:53
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, fieldwork, glaciology, iceland, kronebreen, new year, phd, research, resolutions, Svalbard, time-lapse, tunabreen, Uncategorized]
+categories: 
+  - PhD
+categories: 
+  - cameras
+  - fieldwork
+  - glaciology
+  - iceland
+  - kronebreen
+  - new year
+  - PhD
+  - research
+  - resolutions
+  - Svalbard
+  - time-lapse
+  - tunabreen
 ---
 <h5>1. Write more</h5>
 This encompasses a whole load of things including writing up findings, reading and summarising articles, blogging more, and generally documenting more of my PhD and research. I am beginning the third year of my PhD now, and I have very little written down to show for it. Blogging has really encouraged me to reflect, condense and write about my work. So as well as my goal to write more blog posts in the coming year, I want to begin writing my thesis. I'm hoping this will make it easier in the future.

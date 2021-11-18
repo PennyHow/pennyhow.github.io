@@ -1,10 +1,21 @@
 ---
-layout: post
-title: Why study Kronebreen and other small glaciers?
+title: "Why study Kronebreen and other small glaciers?"
 date: 2016-05-11 22:11
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, cameras, fieldwork, glaciology, kongsvegen, kronebreen, research, supraglacial lake drainage, Svalbard, time-lapse, UNIS]
+categories: 
+  - PhD
+  - Svalbard
+tags: 
+  - calving
+  - cameras
+  - fieldwork
+  - glaciology
+  - kongsvegen
+  - kronebreen
+  - research
+  - supraglacial lake drainage
+  - Svalbard
+  - time-lapse
+  - UNIS
 ---
 <h5 style="text-align:justify;">There are two motivations behind writing this blog post. One is to document the deployment of our time-lapse cameras for a third consecutive summer season at Kronebreen, which is a fast-flowing tidewater glacier in Svalbard. It is difficult to justify such intensive fieldwork without explaining why we are doing this research though. So the second reason for writing this is to explain why we are studying Kronebreen, and more importantly why findings from smaller glacier systems are just as significant as those from bigger catchments (i.e. Greenland and Antarctica).  The take home message from this is that the study of smaller glaciers is essential to progressing our understanding of glacier dynamics which ultimately feeds into better prediction of future sea level rise.</h5>
 <p style="text-align:justify;"><span style="text-decoration:underline;">DISCLAIMER:</span> All opinions are my own and I encourage discussion on the subject matter. I'm all ears!</p>

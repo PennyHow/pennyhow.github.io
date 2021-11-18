@@ -1,10 +1,24 @@
 ---
-layout: post
-title: Subglacial hydrology at Kronebreen, Svalbard, published in The Cryosphere
+title: "Subglacial hydrology at Kronebreen, Svalbard, published in The Cryosphere"
 date: 2017-11-21 13:48
-author: pennyhow
-comments: true
-categories: [All blog posts, glaciology, How et al. (2017), hydraulic potential, hydrology, Kongsfjorden, kronebreen, Ny Alesund, phd, PhD update, research, subglacial, Svalbard, The Cryosphere, time-lapse, velocity]
+categories: 
+  - PhD
+  - Svalbard
+  - Photogrammetry
+tags: 
+  - glaciology
+  - hydraulic potential
+  - hydrology
+  - Kongsfjorden
+  - kronebreen
+  - Ny Alesund
+  - PhD
+  - research
+  - subglacial
+  - Svalbard
+  - The Cryosphere
+  - time-lapse
+  - velocity
 ---
 <p style="text-align:justify;">The Cryosphere recently published our work on Kronebreen, a fast-flowing tidewater glacier in Svalbard (<span style="text-decoration:underline;"><strong><a href="https://www.the-cryosphere.net/11/2691/2017/" target="_blank" rel="noopener">click here to see the article</a></strong></span>). <strong>The study examines subglacial hydrology and its influence on basal dynamics over the 2014 melt season</strong>, with simultaneous observations of water pressure at the bed, supraglacial lake drainage, meltwater plume activity, and glacier surface velocities. In addition, melt/runoff and hydraulic potential were modelled in order to estimate surface melt production, and the routing of meltwater at the bed. This built a nice record from which we could establish a robust, theoretical picture of how water is channeled at the bed.</p>
 <p style="text-align:justify;"><strong>One of the key findings is the difference in drainage beneath the north and south regions of the glacier terminus, which is linked to spatial variations in surface velocity.</strong> The study also shows a consistently high water pressure at the glacier bed throughout the melt season. These readings were collected from a borehole that was drilled approximately 3 km upglacier of the terminus. Borehole records from tidewater glaciers are rare but the few early studies that currently exist, including this one, suggest that <strong>bed conditions at tidewater glaciers are persistently pressurised, with a high hydraulic base-level that permits fast flow.</strong></p>

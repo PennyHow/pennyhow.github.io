@@ -1,10 +1,23 @@
 ---
-layout: post
-title: PhD Update: September 2016
+title: "PhD Update: September 2016"
 date: 2016-09-29 22:14
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, fieldwork, glaciology, kongsbreen, Kongsfjorden, kronebreen, lidar, phd, PhD update, research, Svalbard, time-lapse, tunabreen]
+categories: 
+  - PhD
+  - Svalbard
+tags: 
+  - cameras
+  - fieldwork
+  - glaciology
+  - kongsbreen
+  - Kongsfjorden
+  - kronebreen
+  - lidar
+  - phd
+  - PhD 
+  - research
+  - Svalbard
+  - time-lapse
+  - tunabreen
 ---
 <h5 style="text-align:justify;">I have been in Svalbard (again) for most of September, collecting images from our 14 time-lapse cameras that we have based in Kongsfjorden and Tempelfjorden. We haven't seen these cameras since May 2016 (Kongsfjorden cameras) and August 2015 (Tempelfjorden cameras) so it was quite nerve-racking to go back and see if everything had worked. We had a couple of disappointments but generally the retrieval was a success, with approximately 130,000 photos collected in total.</h5>
 <p>Ten time-lapse cameras were deployed in Kongsfjorden last May (<span style="text-decoration:underline;"><strong><a href="https://pennyhow.wordpress.com/2016/05/11/why-study-kronebreen/">click here</a></strong></span> for more info on the deployment). Eight of these were installed on Collethøgda, overlooking Kronebreen, a fast-flowing marine-terminating glacier at the end of the fjord.  It is hoped that the close array of images from these cameras can be used to generate three-dimensional time-lapse sequences using a technique called <span style="text-decoration:underline;"><strong><a href="http://www.sciencedirect.com/science/article/pii/S0169555X12004217" target="_blank">Structure-from-Motion (SfM)</a></strong></span> which uses images from multiple angles to generate 3D point clouds of a target.</p>

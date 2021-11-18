@@ -1,10 +1,16 @@
 ---
-layout: post
-title: Paulabreen
+title: "Paulabreen"
 date: 2016-03-07 14:37
-author: pennyhow
-comments: true
-categories: [All blog posts, fieldwork, glaciology, paulabreen, research, surge, Svalbard, time-lapse]
+categories: 
+  - PhD
+tags: 
+  - fieldwork
+  - glaciology
+  - paulabreen
+  - research
+  - surge
+  - Svalbard
+  - time-lapse
 ---
 <h4 style="text-align:justify;">This month I have been in Svalbard, demonstrating on the Glaciology course (AG-325/825) at the University Centre in Svalbard (UNIS). The course is aimed at Masters and PhD students who want a taste of the Arctic. The course consists of four weeks of glaciology lectures  and weekly excursions to glaciers in the local area. I have been supporting the logistical side of the weekly excursions, with the odd bit of teaching here and there. This week we have been to Paulabreen, a surge-type glacier, which has some impressive ice exposures.</h4>
 [caption id="attachment_1978" align="aligncenter" width="468"]<img class="alignnone size-full wp-image-1978" src="https://pennyhow.files.wordpress.com/2016/03/paulabreen_map.jpg" alt="Map of Paulabreen, which flows into Rindersbukta, along with Skobreen and Bakaninbreen. The camera labelled on the map is the location of a time-lapse camera installed by researchers at UNIS, which captured the 2003-05 surge of Paulabreen-Skobreen. Source: Kristensen and Benn (2012)" width="468" height="432" /> Map of Paulabreen, which flows into Rindersbukta, along with Skobreen and Bakaninbreen. The camera labelled on the map is the location of a time-lapse camera installed by researchers at UNIS, which captured the 2003-05 surge of Paulabreen-Skobreen. Source: <a href="http://www.polarresearch.net/index.php/polar/article/view/11106" target="_blank">Kristensen and Benn (2012)</a>[/caption]

@@ -1,10 +1,30 @@
 ---
-layout: post
-title: Using meltwater plumes to infer subglacial hydrology at tidewater glaciers
+title: "Using meltwater plumes to infer subglacial hydrology at tidewater glaciers"
 date: 2017-02-17 10:07
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, glacier, Greenland, hydrology, KNS, kronebreen, literature, meltwater, phd, PhD update, photography, plume, research, Svalbard, TerraSAR-X, tidewater, time-lapse, tunabreen, velocity]
+categories: 
+  - PhD
+  - Svalbard
+  - Greenland
+  - Photogrammetry
+tags: 
+  - cameras
+  - glacier
+  - Greenland
+  - hydrology
+  - KNS
+  - kronebreen
+  - literature
+  - meltwater
+  - PhD 
+  - photography
+  - plume
+  - research
+  - Svalbard
+  - TerraSAR-X
+  - tidewater
+  - time-lapse
+  - tunabreen
+  - velocity
 ---
 <h5 style="text-align:justify;">PhD update: January 2017. Meltwater plumes are the upwelling of fresh water in front of a tidewater glacier. These are known to influence submarine melt rates, which are suggested to have a significant impact on the calving rate of glaciers that terminate in sea water. Recent work has suggested that meltwater plumes can also be used to infer the subglacial hydrology at the front of a glacier.</h5>
 <p style="text-align:justify;">At land-terminating glaciers, water is evacuated via flow outlets which form large rivers on the adjacent land. It is therefore relatively straightforward to measure the amount of water leaving the glacial system. Things are a bit more complicated at glaciers which terminate in water (i.e. a fjord, sea, or ocean). Fresh water exits from the glacier at depth and interacts with the salty seawater. The fresh water moves upwards due to the density difference between freshwater and saltwater, forming a turbulent column of mixing water. This is a <strong>meltwater plume</strong> (and can also be referred to as a 'submarine plume', or simply just a 'plume').</p>

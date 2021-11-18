@@ -1,10 +1,18 @@
 ---
-layout: post
-title: Photography and Snowflakes
+title: "Photography and Snowflakes"
 date: 2016-10-19 22:38
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, Charlie English, glaciology, photography, snow crystals, snowflakes, The Snow Tourist, Uncategorized, Vermont, Wilson Bentley]
+categories: 
+  - PhD
+tags:
+  - cameras
+  - Charlie English
+  - glaciology
+  - photography
+  - snow crystals
+  - snowflakes
+  - The Snow Tourist
+  - Vermont
+  - Wilson Bentley
 ---
 <h5 style="text-align:justify;">It is generally believed that no snowflake is the same because of one man and his obsession with looking at snow crystals: Wilson Bentley. Over the course of his life, Bentley photographed over 5000 snowflakes which were collected from around his home in Vermont over his lifetime (1865-1931). This impressive collection sparked curiosity among the scientific community into how snowflakes form and cemented Bentley's place as the most dedicated observer of snow in history. I came across Bentley's work whilst reading a book about snow, and his photographs and story have captivated me.</h5>
 <p style="text-align:justify;">A snowflake will have one of a specific number of structures - such as dinner plates, branch networks, columns and 'flower' patterns - but with different detailing that makes it unique to any other. Up close, these internal symmetries and dendrites appear intricate and beautiful and is what captured the attention of Wilson Bentley as a fifteen year old boy when he first put a snowflake under a microscope.</p>

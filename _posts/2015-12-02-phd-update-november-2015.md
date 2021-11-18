@@ -1,10 +1,18 @@
 ---
-layout: post
-title: PhD update: November 2015
+title: "PhD update: November 2015"
 date: 2015-12-02 22:10
-author: pennyhow
-comments: true
-categories: [All blog posts, calving, cameras, glaciology, kronebreen, PhD update, research, Svalbard, time-lapse]
+categories: 
+  - PhD
+  - Svalbard
+tags: 
+  - calving
+  - cameras
+  - glaciology
+  - kronebreen
+  - PhD update
+  - research
+  - Svalbard
+  - time-lapse
 ---
 <h4>PhD update: bed water pressures correspond to surface lake drainage events at Kronebreen</h4>
 

@@ -1,10 +1,21 @@
 ---
-layout: post
-title: The Expedition: Solving the Mystery of a Polar Tragedy by Bea Uusma | Book Review
+title: "The Expedition: Solving the Mystery of a Polar Tragedy by Bea Uusma | Book Review"
 date: 2016-09-02 09:41
-author: pennyhow
-comments: true
-categories: [All blog posts, Andrée, Bea Uusma, Book review, expedition, Frænkel, hot air balloon, literature, North Pole, polar, Svalbard, The Expedition]
+categories: 
+  - PhD
+  - Svalbard
+tags: 
+  - Andrée
+  - Bea Uusma
+  - Book review
+  - expedition
+  - Frænkel
+  - hot air balloon
+  - literature
+  - North Pole
+  - polar
+  - Svalbard
+  - The Expedition
 ---
 <h5 style="text-align:justify;">Normally the last thing I want to do after a hard day’s work focused on a polar subject is… read yet more polar-related stuff. There are multiple books gathering dust on my bookshelves that come under this category – Antarctica, polar explorers, Arctic history and folklore, popular science – lovingly given to me by friends and family who presumed that my interest was unrelenting. A small challenge I have now set myself is to read these, and this was encouraged by one book, which I picked up on a whim from the museum in Svalbard because I had nothing else to read at the time.</h5>
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong><a href="https://www.amazon.co.uk/Expedition-Solving-Mystery-Polar-Tragedy/dp/1781859620" target="_blank">The Expedition: Solving the Mystery of a Polar Tragedy by Bea Uusma</a></strong></span> tells the true story of three Swedish men who vanished in 1897 whilst attempting to be the first to cross the North Pole in a hot air balloon. Thirty three years later, their bodies were stumbled upon at the shores of the harrowing White Island, which lies to the north-east of Svalbard. There was no concluding evidence to suggest how they had ended up there and why they died – they were found with ample provisions, warm clothing, functioning weapons and plenty of ammunition. Many speculated on the cause of death, from eating polar bear liver (known to be toxic) to carbon monoxide poisoning to suicide. But there has never been consensus on which theory is more likely, with little supporting evidence for each one.</p>

@@ -1,10 +1,27 @@
 ---
-layout: post
-title: PhD Update: October 2016
+title: "PhD Update: October 2016"
 date: 2016-11-01 12:06
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, glaciology, IGS, International Glaciological Society, kronebreen, lakes, Landsat, Norsk Polarinstitutt, phd, PhD update, photogrammetry, photography, research, subglacial, supraglacial lake drainage, Svalbard, time-lapse]
+categories: 
+  - PhD
+  - Svalbard
+  - Photogrammetry
+tags:
+  - cameras
+  - glaciology
+  - IGS
+  - International Glaciological Society
+  - kronebreen
+  - lakes
+  - Landsat
+  - Norsk Polarinstitutt
+  - PhD
+  - photogrammetry
+  - photography
+  - research
+  - subglacial
+  - supraglacial lake drainage
+  - Svalbard
+  - time-lapse
 ---
 <h5 style="text-align:justify;">It is known that supraglacial lakes on the surface of a glacier fill and drain over the course of a summer melt season. Lake observations from time-lapse photography at Kronebreen glacier in Svalbard show possible links between their drainage and changes at the glacier bed. This month I have been further investigating these lakes using satellite imagery and other data to find that these lakes have formed and drained in similar positions for at least 30 years, indicating that the subglacial environment is relatively consistent year-on-year.</h5>
 <p style="text-align:justify;">Time-lapse images at Kronebreen show lake drainage at the end of June in both 2014 and 2015. These lakes have a maximum surface area of 18,000 sq m and appear to fill and drain simultaneously, sometimes appearing to be a brown, sediment-heavy colour suggesting that they are directly connected to the glacier bed.</p>

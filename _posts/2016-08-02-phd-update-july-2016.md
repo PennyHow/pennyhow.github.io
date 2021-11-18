@@ -1,10 +1,20 @@
 ---
-layout: post
-title: PhD Update: July 2016
+title: "PhD Update: July 2016"
 date: 2016-08-02 15:51
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, glaciology, kronebreen, phd, PhD update, plume, python, PyTrx, research, submarine melt, Svalbard, time-lapse]
+categories: 
+  - PhD
+tags: 
+  - cameras
+  - glaciology
+  - kronebreen
+  - PhD 
+  - plume
+  - python
+  - PyTrx
+  - research
+  - submarine melt
+  - Svalbard
+  - time-lapse
 ---
 <h5 style="text-align:justify;">The majority of July has been focused on widening the applications of the Area class in PyTrx, which is being developed to determine real world areal data from oblique photography. Specifically I have been working on detecting visible plume extent. Unlike surface lake extent, plume detection has proved difficult to automate due to poor contrast. However, I have made an alternative set of functions to manually distinguish plume extent which look promising for yielding high-frequency, high-resolution areal data.</h5>
 <p style="text-align:justify;">A <strong>submarine plume</strong> is an upwelling of freshwater from an ocean-terminating glacier terminus. A sediment-rich, 'muddy' area of water forms in cases where this upwelling reaches the ocean surface. This upwelling is largely caused by the density difference between fresh water and salt water, creating a column of turbulent water that promotes melting of the glacier front in its immediate vicinity. This submarine melting is considered to be one of the main controls on ice calving in tidewater settings. Plumes also provide significant feeding grounds for birds, seals and other local wildlife in the area - small organisms (which survive in saltwater) are stunned when they come into contact with freshwater from the glacier and are transported to the surface via the upwelling plume column. Birds feed off these stunned organisms at the surface whilst seals and other sea life feed from organisms entrained in the upwelling plume column.</p>

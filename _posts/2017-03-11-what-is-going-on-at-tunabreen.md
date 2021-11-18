@@ -1,10 +1,18 @@
 ---
-layout: post
-title: What is going on at Tunabreen?
+title: "What is going on at Tunabreen?"
 date: 2017-03-11 09:32
-author: pennyhow
-comments: true
-categories: [All blog posts, glacier, glaciology, phd, PhD update, photography, research, surge, Svalbard, tunabreen, velocity]
+categories: 
+  - PhD
+tags: 
+  - glacier
+  - glaciology
+  - PhD 
+  - photography
+  - research
+  - surge
+  - Svalbard
+  - tunabreen
+  - velocity
 ---
 <h5 style="text-align:justify;">Tunabreen is a tidewater glacier in Svalbard that has recently been displaying some exciting activity. It is known as a surge-type glacier, with discrete periods where it flows markedly faster and slower. Tunabreen entered a fast-flowing phase in December 2016, which is ongoing at the time of writing. The nature of this fast-flowing phase is atypical for Tunabreen though, throwing into question whether this phase is associated with surge dynamics. What is going on at Tunabreen?!</h5>
 <p style="text-align:justify;">Tunabreen is an ocean-terminating glacier on the west coast of Svalbard. This glacier is particularly special because of its unique set of dynamics. A large number of the glaciers in Svalbard are known as <strong>surge-type glaciers</strong>. A surge-type glacier undergoes periods of fast-flow followed by very slow, inactive phases. The nature of this surging pattern is due to the glacier's inefficiency in transferring mass from its upper regions to its terminus (<span style="text-decoration:underline;"><strong><a href="http://www.ingentaconnect.com/contentone/igsoc/jog/2015/00000061/00000228/art00004" target="_blank">Sevestre and Benn, 2015</a></strong></span>). It is an internally-driven process. The trigger of this process is unrelated to external influences (i.e. changes in air temperature, ocean temperature, and precipitation).</p>

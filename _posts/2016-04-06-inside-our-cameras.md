@@ -1,10 +1,21 @@
 ---
-layout: post
-title: Inside our cameras
+title: "Inside our cameras"
 date: 2016-04-06 18:57
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, Canon, Film &amp; time-lapse, glaciology, Harbortronics, kronebreen, Peli case, research, time-lapse, timer]
+categories: 
+  - PhD
+  - Photogrammetry
+tags:
+  - cameras
+  - Canon
+  - film
+  - time-lapse
+  - glaciology
+  - Harbortronics
+  - kronebreen
+  - Peli case
+  - research
+  - time-lapse
+  - timer
 ---
 <h5 style="text-align:justify;">Sometimes we get requests concerning what equipment we use in our time-lapse camera systems. Our systems are not off-the-shelf products, we buy specific parts and put them together ourselves to save money and ensure that the systems contain the most suited components for what we want to do. Here is a summary of the components that make up our systems.</h5>
 

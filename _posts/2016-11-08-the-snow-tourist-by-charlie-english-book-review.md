@@ -1,10 +1,25 @@
 ---
-layout: post
-title: The Snow Tourist by Charlie English | Book Review
+title: "The Snow Tourist by Charlie English | Book Review"
 date: 2016-11-08 22:02
-author: pennyhow
-comments: true
-categories: [All blog posts, art, Book review, Charlie English, Frankenstein, glaciology, Greenland, ice, Mary Shelley, Monet, Nordenskiöld, ski, skiing, snow, The Snow Tourist, Wilson Bentley, Yuki-onna]
+categories: 
+  - PhD
+tags: 
+  - art
+  - Book review
+  - Charlie English
+  - Frankenstein
+  - glaciology
+  - Greenland
+  - ice
+  - Mary Shelley
+  - Monet
+  - Nordenskiöld
+  - ski
+  - skiing
+  - snow
+  - The Snow Tourist
+  - Wilson Bentley
+  - Yuki-onna
 ---
 <h5 style="text-align:justify;">I didn't know what to expect when I picked up a popular science book about snow, especially when its tagline is 'A search for the world's purest, deepest snowfall'. I thought The Snow Tourist by Charlie English, a book exploring the places in the world with the most snowfall, could be quite intriguing. On reading it, I feel like this book was mis-advertised though. It wasn't intriguing... it was much better than that. Charlie English effectively conveys an intense curiosity and obsession with snow that goes much farther than merely looking for the deepest snow. Snow is explored in the context of art, folklore, science and as a way of life. This book far surpassed my expectations. I still learnt about so many fascinating things even though my career is in the study of ice and snow. Literally anyone can pick up this book and find out something interesting about snow.</h5>
 <p style="text-align:justify;"><img class="  wp-image-5893 alignleft" src="https://pennyhow.files.wordpress.com/2016/11/9781582435206.jpg" alt="The Snow Tourist by Charlie English book cover (source: Book Depository)" width="212" height="296" />The Snow Tourist begins with author Charlie English declaring his ambitious adventure - to travel to some of the coldest places and see the best snow over the world. I felt uncertain about this endeavour at first - what constitutes the 'best' snow? how will the author steer away from being dry and repetitive when describing each region? is there enough to explore and discuss in relation to snow?</p>

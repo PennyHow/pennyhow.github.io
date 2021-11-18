@@ -1,10 +1,19 @@
 ---
-layout: post
-title: PhD update: September 2015
+title: "PhD update: September 2015"
 date: 2015-10-03 18:00
-author: pennyhow
-comments: true
-categories: [All blog posts, cameras, fieldwork, glaciology, kronebreen, PhD update, research, Svalbard, teaching, time-lapse]
+categories: 
+  - PhD
+  - Svalbard
+tags: 
+  - cameras
+  - fieldwork
+  - glaciology
+  - kronebreen
+  - PhD update
+  - research
+  - Svalbard
+  - teaching
+  - time-lapse
 ---
 <h4>PhD update: Retrieving time-lapse cameras from Kronebreen glacier, and teaching at the University Centre in Svalbard (UNIS)</h4>
 [caption id="attachment_742" align="aligncenter" width="660"]<img class="size-large wp-image-742" src="https://pennyhow.files.wordpress.com/2015/10/dsc00014-e1443894459902.jpg?w=660" alt="Post-doc researcher Sarah Thompson (UNIS) taking a GPS reading at camera site 2, positioned at the calving front of Kronebreen glacier, Svalbard (September 2015)" width="660" height="322" /> Post-doc researcher Sarah Thompson (UNIS) taking a GPS reading at camera site 2, positioned at the calving front of Kronebreen glacier, Svalbard (September 2015)[/caption]
