@@ -3,7 +3,7 @@ title: "Scientific writing"
 permalink: /scientific-writing/
 author_profile: true
 ---
-<p style="text-align:justify;">I have written articles for the <a href="https://visitgreenland.com/">Visit Greenland</a>, the Greenland tourism board about glaciers and climate change. This is a focused effort to communicate science to tourists, and provide information about scientific research and glaciology in Greenland.</p>
+<p style="text-align:justify;">I regularly write <a href="https://pennyhow.github.io/posts/">here</a> about programming, glaciology and research. Additionally, I have written articles for other groups in different fields, for which information and links are provided below.</p>
 
 <hr>
 

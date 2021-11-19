@@ -4,7 +4,7 @@ permalink: /scientific-writing/visit-greenland/
 author_profile: true
 ---
 
-<p style="text-align:justify;">I was hired by <a href="https://www.space-intelligence.com" target="_blank" rel="noopener noreferrer">Space Intelligence</a> in 2018 to write a series of articles as a guest contributor on the role of remote sensing in monitoring environmental change. This included an introduction to remote sensing for non-scientific audiences, the importance of traceability in palm oil production, and an examination of known Unilever-associated palm oil mills with deforestation. Links to the full articles are provided below:</p>
+<p style="text-align:justify;">I have written articles for the <a href="https://visitgreenland.com/">Visit Greenland</a>, the Greenland tourism board about glaciers and climate change. This is a focused effort to communicate science to tourists, and provide information about scientific research and glaciology in Greenland.</p>
 
 <hr>
 
