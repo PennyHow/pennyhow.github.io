@@ -25,7 +25,7 @@ tags:
 <em>[In Svalbard]</em> 'Today we packed up the boat and sailed over to Tunabreen. We got there around midday after a rocky patch which left me bed bound, eyes tight shut and concentrating on not being sick. We got there quite early and knew we would have a lot of daylight so set off to the glacier to begin scouting sites for the strain meters. It took us ages to find a suitable site as the crevasse field stretched much further upglacier than expected. Once we found a site, we drilled a marker pole so we could find it again and fashioned a flag out of my long-johns. They looked magnificent.'</p>
 
 
-[caption id="attachment_1586" align="aligncenter" width="500"]<img class="alignnone  wp-image-1586" src="https://pennyhow.files.wordpress.com/2016/01/dscn3900.jpg" alt="The Viking Explorer moored in a calm area of Tempelfjorden, Svalbard (August, 2016)" width="500" height="375" /> The Viking Explorer moored in a calm area of Tempelfjorden, Svalbard (August, 2016). The infamous long-john flag still flies on Tunabreen to this day as a sacrifice to the glacial gods. Photo credit: Nick Hulton[/caption]
+<img class="alignnone  wp-image-1586" src="https://pennyhow.files.wordpress.com/2016/01/dscn3900.jpg" alt="The Viking Explorer moored in a calm area of Tempelfjorden, Svalbard (August, 2016)" width="500" height="375" /><br> *The Viking Explorer moored in a calm area of Tempelfjorden, Svalbard (August, 2016). The infamous long-john flag still flies on Tunabreen to this day as a sacrifice to the glacial gods*
 
 <blockquote>
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong>Monday 18th August 2015</strong></span>
@@ -41,7 +41,7 @@ tags:
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong>Wednesday 23rd September 2015</strong></span>
 <em>[In Svalbard]</em> 'Today has been good. Very productive. I think I have got my <em>[AG-347/847]</em> practical exercise sorted. I managed to resolve the problem with DEM importing - if I ever read this diary back looking for this info, remember that <b>Pointcatcher needs cartesian coordinates. CARTESIAN, GOD DAMMIT.</b>'</p>
 
-<img class="alignnone  wp-image-1594" src="https://pennyhow.files.wordpress.com/2016/01/dsc09238.jpg" alt="Me at camera site 8b, Kronebreen, Svalbard (May 2015)" width="501" height="333" align="aligncenter" /> *Me at camera site 8b, Kronebreen, Svalbard (May 2015). Photo credit: Heidi Sevestre*
+<img class="alignnone  wp-image-1594" src="https://pennyhow.files.wordpress.com/2016/01/dsc09238.jpg" alt="Me at camera site 8b, Kronebreen, Svalbard (May 2015)" width="501" height="333" align="aligncenter" /><br> *Me at camera site 8b, Kronebreen, Svalbard (May 2015). Photo credit: Heidi Sevestre*
 
 <blockquote>
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong>Thursday 8th October 2015</strong></span>

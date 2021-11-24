@@ -25,7 +25,7 @@ This encompasses a whole load of things including writing up findings, reading a
 
 This is an ambitious one, and unlikely to be achieved because of the tortuous amount of time it takes an idea to become a paper, to become accepted, to become published. It would be comforting to know that I have a paper waiting in the wings by the end of the year though.
 
-<img class="alignnone size-full wp-image-696" src="https://pennyhow.files.wordpress.com/2015/08/cam2_02-e1440344681765.jpg" alt="A time-lapse camera installed at Ultunafjella, overlooking the calving front of Tunabreen (August 2015)" width="4912" height="2333" align="aligncenter" /> *One of our time-lapse cameras installed at Tunabreen, Svalbard, a personal highlight of my year - great living (on a boat), great work, great company*
+<img class="alignnone size-full wp-image-696" src="https://pennyhow.files.wordpress.com/2015/08/cam2_02-e1440344681765.jpg" alt="A time-lapse camera installed at Ultunafjella, overlooking the calving front of Tunabreen (August 2015)" width="4912" height="2333" align="aligncenter" /><br> *One of our time-lapse cameras installed at Tunabreen, Svalbard, a personal highlight of my year - great living (on a boat), great work, great company*
 
 <h3>3. Continue our time-lapse work at Kronebreen glacier in Svalbard</h3>
 
@@ -35,7 +35,7 @@ At the time of writing this, the prospect of re-installing our time-lapse camera
 
 Two of the biggest annual geoscience conferences are the European Geophysical Union (EGU) General Assembly and the American Geophysical Union (AGU) Fall Meeting, and I hope to attend one of them. Because I have often been busy with fieldwork in the past, I normally don't get time to go to big conferences, present my work and network with others. I hope that as my fieldwork begins to die down this year, I can attend either AGU or EGU along with the International Glaciological Society British Branch Meeting and Nordic Branch Meeting.
 
-<img class="alignnone size-full wp-image-742" src="https://pennyhow.files.wordpress.com/2015/10/dsc00014-e1443894459902.jpg" alt="Post-doc researcher Sarah Thompson (UNIS) taking a GPS reading at camera site 2, positioned at the calving front of Kronebreen glacier, Svalbard (September 2015)" width="4912" height="2394" align="aligncenter" /> *Post-doc researcher Sarah Thompson (UNIS) at one of our time-lapse cameras at Kronebreen glacier, Svalbard. This was another highlight of my year as it was the first time I was in charge of fieldwork coordination, and Sarah was such a fantastic companion to bring along with me*
+<img class="alignnone size-full wp-image-742" src="https://pennyhow.files.wordpress.com/2015/10/dsc00014-e1443894459902.jpg" alt="Post-doc researcher Sarah Thompson (UNIS) taking a GPS reading at camera site 2, positioned at the calving front of Kronebreen glacier, Svalbard (September 2015)" width="4912" height="2394" align="aligncenter" /><br> *Post-doc researcher Sarah Thompson (UNIS) at one of our time-lapse cameras at Kronebreen glacier, Svalbard. This was another highlight of my year as it was the first time I was in charge of fieldwork coordination, and Sarah was such a fantastic companion to bring along with me*
 
 <h3>5. Take a holiday... for God's sake</h3>
 
