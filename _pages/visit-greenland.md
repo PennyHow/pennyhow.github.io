@@ -12,5 +12,5 @@ author_profile: true
 
 <p style="text-align:justify;"><a href="https://visitgreenland.com/about-greenland/russell-glacier/" target="_blank" rel="noopener noreferrer">Russell Glacier</a></p>
 
-<img src="https://visitgreenland.com/wp-content/uploads/2021/06/sermeq-kujalleq.gif" alt="Changes at Sermeq Kujalleq" width="600" align="aligncenter"/>
+<img src="https://visitgreenland.com/wp-content/uploads/2021/06/sermeq-kujalleq.gif" alt="Changes at Sermeq Kujalleq" width="500" align="aligncenter"/><br>
 *Two satellite images from Sermeq Kujalleq (Jakobshavn) captured 10 years apart, from 1992 and 2002, documenting the disintegration of its floating glacier tongue. These satellite images are from the NASA/USGS Landsat program, which was first launched in 1972 and is one of the longest continuous satellite image records in existence.*
