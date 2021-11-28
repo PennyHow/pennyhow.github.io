@@ -22,7 +22,7 @@ tags:
 
 <h3>The set-up</h3>
 
-<img class="alignnone size-full wp-image-2819" src="https://pennyhow.files.wordpress.com/2016/04/dsc09238.jpg" alt="One of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015)" width="4912" height="3264" align="aligncenter" /><br> *Me and one of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015). Photo credit: Heïdi Sevestre.*
+<img class="alignnone size-full wp-image-2819" src="https://pennyhow.files.wordpress.com/2016/04/dsc09238.jpg" alt="One of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015)" width="800" align="aligncenter" /><br> *Me and one of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015). Photo credit: Heïdi Sevestre.*
 
 <span style="text-decoration:underline;"><strong>1. The camera box</strong></span>
 <p style="text-align:justify;">Our camera boxes are custom-made by Alex Hart and the University of Edinburgh GeoSciences workshop. The original box is a <a href="http://peliproducts.co.uk/products/cases/im2075-storm-case-1353.html" target="_blank">Peli iM2075 Storm Case</a>which the workshop team take and modify. The modification involves:</p>
@@ -53,7 +53,7 @@ tags:
 
 <h3>Inside the camera box</h3>
 
-<img class="alignnone size-full wp-image-2820" src="https://pennyhow.files.wordpress.com/2016/04/gopr0049-1-copy.jpg" alt="Inside one of our camera boxes (April 2014)" width="3465" height="2930" align="aligncenter" /><br> *Inside one of our camera boxes (April 2014)*
+<img class="alignnone size-full wp-image-2820" src="https://pennyhow.files.wordpress.com/2016/04/gopr0049-1-copy.jpg" alt="Inside one of our camera boxes (April 2014)" width="800" align="aligncenter" /><br> *Inside one of our camera boxes (April 2014)*
 
 <strong><span style="text-decoration:underline;">1. <a href="http://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_700d/" target="_blank">Canon 600D/700D camera with assorted EF lenses</a></span></strong>
 <p style="text-align:justify;">As well as being a good camera for image quality, we also use the Canon 600D/700D because it is efficient in power consumption, consuming very little power when on and entering a sleep mode between photos. If you are buying a camera for time-lapse uses, make sure the camera can enter a sleep mode (or buy a timer that can be programmed to make the camera sleep e.g. the Harbortronics Digisnap 2100 timer). It is also a good idea to consider the size of the image sensor as this controls the quality of the image. Cameras tend to be pricey when buying them brand new, but you can save money by buying from Ebay. The Canon 600D is no longer made (hence why we have recently started buying the Canon 700D), but there are plenty of refurbished Canon 600D bodies online. Refurbished cameras are new cameras which bear a manufacturer's defect but have been restored to a fully working state. They are perfectly fine to purchase, just the seller is not allowed to advertise it as 'new' (for more information on refurbished cameras <a href="http://www.ebay.co.uk/gds/Your-Guide-to-Buying-Refurbished-Cameras-/10000000177742767/g.html" target="_blank">click here</a>).</p>
