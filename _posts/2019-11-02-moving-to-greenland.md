@@ -21,7 +21,7 @@ tags:
 
 Overall, I hope I can kickstart writing these updates again. They were fun to do during my PhD, and it was a pity I lost that in the lead up to handing in my thesis and during my first postdoc. I hope I can report on projects I work on in Asiaq, and talk about life in Greenland generally. Here's to this platform's rejuvenation!
 
-<img class="alignnone size-full wp-image-7642" src="https://pennyhow.files.wordpress.com/2019/11/img-4134.jpg" alt="Out and about around Nuuk" width="3024" height="3061" align="aligncenter" /><br> *This was from a hiking/fishing trip just outside of Nuuk. Fishing here is very easy if you like cod. They say here that if you don't get any fish after two or three casts then you should move on to the next spot! The fish we caught this day were massive!*
+<img class="alignnone size-full wp-image-7642" src="https://pennyhow.files.wordpress.com/2019/11/img-4134.jpg" alt="Out and about around Nuuk" width="800" align="aligncenter" /><br> *This was from a hiking/fishing trip just outside of Nuuk. Fishing here is very easy if you like cod. They say here that if you don't get any fish after two or three casts then you should move on to the next spot! The fish we caught this day were massive!*
 
 <hr />
 

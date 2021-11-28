@@ -57,7 +57,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7751,"width":498,"height":383,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://pennyhow.files.wordpress.com/2021/02/sw-inset_n-1.png"><img src="https://pennyhow.files.wordpress.com/2021/02/sw-inset_n-1.png?w=1024" alt="" width="498" height="383" /></a><figcaption>Figure 2 from <strong><span style="text-decoration:underline;"><a href="https://www.nature.com/articles/s41598-021-83509-1" target="_blank" rel="noreferrer noopener">How et al. (2021)</a></span></strong> showing ice marginal lakes over a selected region of the southwestern sector of the ice sheet margin. Panel A shows lake area, B shows lake shape, and C shows the detection method. The largest lake of this region is Kangaarssuup Tasersua, which is labelled 'KT' in Panel B.</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://pennyhow.files.wordpress.com/2021/02/sw-inset_n-1.png"><img src="https://pennyhow.files.wordpress.com/2021/02/sw-inset_n-1.png" alt="" width="800" /></a><figcaption>Figure 2 from <strong><span style="text-decoration:underline;"><a href="https://www.nature.com/articles/s41598-021-83509-1" target="_blank" rel="noreferrer noopener">How et al. (2021)</a></span></strong> showing ice marginal lakes over a selected region of the southwestern sector of the ice sheet margin. Panel A shows lake area, B shows lake shape, and C shows the detection method. The largest lake of this region is Kangaarssuup Tasersua, which is labelled 'KT' in Panel B.</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"justify"} -->
