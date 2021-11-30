@@ -42,8 +42,6 @@ On the third day, Doug and I were dropped off on Garwoodtoppen (the mountain to 
 
 One team were dropped at camera site 4a, where we installed a tripod last year. From here, they scouted out the location for camera 4b. It was initially thought that camera 4b could be installed within close proximity to camera 4a, but there was little good ground and the glacier was hidden from view by the mountainside. They eventually found a suitable site 1 km away that was right on the edge of the mountain top, consisting of little permafrost and exposed gypsum bedrock. Here, they drilled expansion bolts into the bedrock to stabilise the tripod, and gained a terrific view of the mid-section of the glacier tongue.
 
-<img src="https://pennyhow.files.wordpress.com/2015/07/camera4a-e1436474848355.jpg?w=660" alt="May 2015: Camera site 4b" width="800" style="vertical-align:middle" /><br> *Camera site 4b*
-
 With the eight cameras installed and the team finished within the allotted time, the helicopter pick-up went smoothly and we returned to Ny Ålesund…
 
 …until worry set in that the cameras were programmed wrong or the tripods were not well anchored or the GPS locations were not exact etc. etc. Luckily a window opened up the next day when the weather was calm and the helicopter was free, so we re-visited camera sites 4a, 4b, 5 and 9. We worked from 8pm till midnight taking accurate GPS locations, better anchoring the tripods, checking the cameras were working, and downloading the first 24 hours of data. Thankfully everything was working, which gave us some reassurance that the cameras would survive the summer.
@@ -61,8 +59,6 @@ Over the course of three fieldwork films, I’ve come up with a couple of my own
 
 <h3>1. Always remember that the fieldwork and the research is the highest priority</h3>
 The work will always come first. This is why we use GoPro cameras, as they are hands free and easy to operate. Once recording, you can just forget about them and focus on the fieldwork. Also, I try not to let film editing and producing eat into my PhD work time – I am completely guilty of this sometimes (e.g. I am currently writing this in my office in the middle of a weekday with work deadlines looming and future fieldwork creeping up fast), but I am trying to get better!
-
-<img src="https://pennyhow.files.wordpress.com/2015/07/camera3-e1436475260518.jpg?w=660" alt="The team at camera site 3, including our pilots Jon Arve Ramstad and Gunnar Nordahl (photo credit: Heidi Sevestre)" width="800" align="aligncenter" /><br>*The team at camera site 3 (photo credit: Heidi Sevestre)*
 
 <h3>2. Welcome people who want to be involved</h3>
 Give them a camera, ask them to get specific footage, show them a rough cut and ask for advice, anything! I always need that extra bit of footage or feedback. And I make an effort to acknowledge everyone who helps out. So many people are involved in our fieldwork films and their roles often crossover, so I have tended not to specifically assign people’s roles in the credits.

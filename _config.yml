@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dr. Penny How"
+  name   : "Penny How"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Data scientist based in Greenland and Denmark, interested in glacier dynamics, photogrammetry and programming."
   links:
