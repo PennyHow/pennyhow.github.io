@@ -22,7 +22,7 @@ tags:
 
 <h3>The set-up</h3>
 
-<img class="alignnone size-full wp-image-2819" src="https://pennyhow.files.wordpress.com/2016/04/dsc09238.jpg" alt="One of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015)" width="800" align="aligncenter" /><br> *Me and one of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015). Photo credit: Heïdi Sevestre.*
+<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/camera_box.jpg?raw=true" alt="One of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015)" width="800" align="aligncenter" /><br> *Me and one of our cameras overlooking the front of Kronebreen glacier in Svalbard (May 2015). Photo credit: Heïdi Sevestre.*
 
 <span style="text-decoration:underline;"><strong>1. The camera box</strong></span>
 <p style="text-align:justify;">Our camera boxes are custom-made by Alex Hart and the University of Edinburgh GeoSciences workshop. The original box is a <a href="http://peliproducts.co.uk/products/cases/im2075-storm-case-1353.html" target="_blank">Peli iM2075 Storm Case</a>which the workshop team take and modify. The modification involves:</p>
