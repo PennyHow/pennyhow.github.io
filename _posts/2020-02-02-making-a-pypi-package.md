@@ -150,7 +150,7 @@ Once run, there will be a link to click through to your PyPI page and <strong>vo
 
 <p style="text-align:justify;">In the case of PyTrx, our PyPI page is available to view <a href="https://pypi.org/project/pytrx/" target="_blank" rel="noopener">here</a>, and our <a href="https://github.com/PennyHow/PyTrx/tree/distribution" target="_blank" rel="noopener">GitHub repository</a> contains all of PyTrx's scripts and the distribution files used for the PyPI upload, which might be useful for some. <strong>Hope this helps someone who has suffered any of the pitfalls of PyPI packages! </strong></p>
 
-<img class="  wp-image-7659 aligncenter" src="https://pennyhow.files.wordpress.com/2020/02/img_5065.jpg" alt="Icebergs in Nuuk" width="536" height="402" align="aligncenter" />
+<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/nuuk_icebergs.jpg?raw=true" alt="Icebergs in Nuuk" width="536" height="402" align="aligncenter" />
 
 <hr>
 
