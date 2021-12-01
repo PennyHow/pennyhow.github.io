@@ -64,7 +64,7 @@ tags:
 
 <img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/paulabreen_ice_01.jpg?raw=true" alt="Debris-Regelation ice-glacier ice patterns seen at Paulabreen (March 2016)" width="800" align="aligncenter" /><br> *Debris-Regelation ice-glacier ice patterns seen at Paulabreen. The section here is approx. 3 x 2 m (March 2016)*
 
-<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/paulabreen_ice_02.jpg?raw=true" alt="Debris-Regelation ice-glacier ice patterns seen at Paulabreen (March 2016)" width="800" align="aligncenter" /> *Debris-Regelation ice-glacier ice patterns seen at Paulabreen (March 2016)*
+<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/paulabreen_ice_02.jpg?raw=true" alt="Debris-Regelation ice-glacier ice patterns seen at Paulabreen (March 2016)" width="800" align="aligncenter" /><br> *Debris-Regelation ice-glacier ice patterns seen at Paulabreen (March 2016)*
 
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong>Internal ice fractures.</strong></span> Cracks or faults in the ice that relate to cooling of the ice as it meets relatively cold winter air temperatures, and strong pressure gradients near the free ice face. These features are not directly related to the surge of Paulabreen.</p>
 
