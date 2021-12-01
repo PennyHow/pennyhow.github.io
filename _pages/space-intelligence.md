@@ -18,5 +18,5 @@ author_profile: true
 
 <p style="text-align:justify;">The articles attracted much attention to Space Intelligence, including interactions from individuals within Unilever and Greenpeace.</p>
 
-<img src="https://pennyhow.files.wordpress.com/2019/03/forestchangemap_sumatramalaysia-1-e1524580901989.jpeg" alt="Forest change in Sumatra and Malaysia" width="1000" align="aligncenter"/><br>
+<img src="https://www.space-intelligence.com/wp-content/uploads/2018/04/forestchangemap_sumatramalaysia-1-e1524580901989-1024x690.jpeg?raw=true" alt="Forest change in Sumatra and Malaysia" width="1000" align="aligncenter"/><br>
 *A map of forest loss in Sumatra and Malaysia in comparison to the presence of Unilever-associated palm oil mills. I made this figure for use in one of my articles on palm oil production impact on the tropics. Specifically areas outside the two main cities in Sumatra, Dumai (Map A) and Palembang (Map C), have experienced a high percentage forest loss in recent years, as indicated by the widespread red patches. The district state of Penang (Map B) in Malyasia has experienced markedly less forest loss in comparison, with fewer red patches and many more white regions.*
