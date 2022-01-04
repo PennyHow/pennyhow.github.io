@@ -15,9 +15,6 @@ tags:
   - travel
   - europe
 ---
-
-# Schengulator
-
 [![Documentation Status](https://readthedocs.org/projects/schengulator/badge/?version=latest)](https://schengulator.readthedocs.io/en/latest/?badge=latest) [![PyPI version](https://badge.fury.io/py/schengulator.svg)](https://badge.fury.io/py/schengulator)
 
 <p style="text-align:justify;">Schengulator is a tool to calculate how many days an individual has been in Schengen countries out of a specified 180-day period.</p>
