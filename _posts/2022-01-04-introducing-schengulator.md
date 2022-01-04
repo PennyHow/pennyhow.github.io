@@ -23,7 +23,7 @@ tags:
 
 <p style="text-align:justify;">Schengulator determines the number of days spent and remaining based on the 90/180-day Schengen Visa Rule, where an individual can stay in Schengen countries for 90 days out of an 180 day time period. The 180-day window is defined as:</p>
     
-<p style="text-align:justify;"> <em>"The 180-day period keeps rolling. Therefore, anytime you wish to enter the Schengen, you just have to count backwards the last 180 days, and see if you have been present in the Schengen for more than 90 days throughout that period"* as stated [here](https://www.schengenvisainfo.com/visa-calculator)</em> </p>
+<p style="text-align:justify;"> <em>"The 180-day period keeps rolling. Therefore, anytime you wish to enter the Schengen, you just have to count backwards the last 180 days, and see if you have been present in the Schengen for more than 90 days throughout that period"</em> (as stated <a href="https://www.schengenvisainfo.com/visa-calculator">here</a>) </p>
 
 <p style="text-align:justify;">Therefore, schengulator calculates the days spent in the Schengen area based on the 180 days prior to a user-defined date.</p>
 
@@ -43,7 +43,7 @@ For more on the Schengen Visa Rule, see these links:
 pip install schengulator
 ```
 
-<p style="text-align:justify;">Schengulator's only dependencies are **datetime** and **csv** for handling date objects and loading from csv files, respectively. These are usually in-built packages to Python distributions, and therefore there should not be any compatibility issues.</p>
+<p style="text-align:justify;">Schengulator's only dependencies are <strong>datetime</strong> and <strong>csv</strong> for handling date objects and loading from csv files, respectively. These are usually in-built packages to Python distributions, and therefore there should not be any compatibility issues.</p>
 
 <p style="text-align:justify;">Check that the package works by opening a python console and importing it.</p>
 
@@ -52,7 +52,7 @@ python3
 import schengulator
 ```
 
-<p style="text-align:justify;">There are a number of examples in the scripts provided in the [examples](https://github.com/PennyHow/schengulator/tree/main/examples) directory of the [schengulator Github repository](https://github.com/PennyHow/schengulator) to test the installation and see how it works. </p>
+<p style="text-align:justify;">There are a number of examples in the scripts provided in the <a href="https://github.com/PennyHow/schengulator/tree/main/examples">examples</a> directory of the <a href="https://github.com/PennyHow/schengulator">schengulator Github repository</a> to test the installation and see how it works. </p>
 
 ```python
 from schengulator.schengulator import SchengenStay, /
