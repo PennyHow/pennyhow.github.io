@@ -1,6 +1,6 @@
 ---
 title: "Introducing Schengulator"
-date: 2021-12-01 20:00
+date: 2022-01-04 20:00
 categories:
   - blog
 tags: 
