@@ -85,7 +85,7 @@ def fetchAltmetrics(doi):
 
 mkdir docs
 
-sphinx quickstart
+sphinx-quickstart
 </code></pre>
 
 <p style="text-align:justify;">There is a prompt for several set-up parameters when initialising the build. One that I couldn't find much information about was the option of having source and build as separate directories. I had not come across this a couple of years ago when using Sphinx, so I think this is a new feature - by opting out of separate directories, the source files are automatically placed in the top directory of the 'docs' folder. </p>
