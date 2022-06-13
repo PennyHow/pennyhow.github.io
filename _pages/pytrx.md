@@ -4,7 +4,7 @@ permalink: /pytrx/
 author_profile: true
 ---
 
-<a href='https://pytrx.readthedocs.io/en/latest/?badge=latest'> <img src='https://readthedocs.org/projects/pytrx/badge/?version=latest' alt='Documentation status' /></a> <a href="https://badge.fury.io/py/pytrx"><img src="https://badge.fury.io/py/pytrx.svg" alt="PyPI status" height="18"></a><br>
+<a href='https://pytrx.readthedocs.io/en/latest/?badge=latest'> <img src='https://readthedocs.org/projects/pytrx/badge/?version=latest' alt='Documentation status' /></a> <a href="https://badge.fury.io/py/pytrx"><img src="https://badge.fury.io/py/pytrx.svg" alt="PyPI status" height="18"></a> <a href="https://zenodo.org/badge/latestdoi/91549468"><img src="https://zenodo.org/badge/91549468.svg" alt="DOI"></a><br>
 
 <p style="text-align:justify;">PyTrx (short for 'Python Tracking') is a Python object-oriented toolset created for the purpose of calculating real-world measurements from oblique images and time-lapse image series. Its primary purpose is to obtain velocities, surface areas, and distances from imagery of glacial environments. </p>
 
