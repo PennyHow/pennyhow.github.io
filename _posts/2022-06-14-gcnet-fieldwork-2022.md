@@ -1,6 +1,6 @@
 ---
 title: "GC-Net and PROMICE weather station 2022 fieldtrip to NE Greenland"
-date: 2022-06-15 14:00
+date: 2022-06-14 14:00
 categories:
   - blog
 tags: 
