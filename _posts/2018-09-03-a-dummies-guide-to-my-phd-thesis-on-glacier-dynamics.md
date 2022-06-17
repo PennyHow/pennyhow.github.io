@@ -110,8 +110,8 @@ This thesis is freely available to download from the <a href="https://www.era.li
 
 <p style="text-align:left;"><span style="text-decoration:underline;"><strong><a href="https://www.the-cryosphere.net/11/2691/2017/" target="_blank" rel="noopener">How et al. (2017) The Cryosphere </a></strong></span><i style="font-weight:400;">- Examining the subglacial hydrology of Kronebreen and its influence on glacier dynamics </i></p>
 
-<p style="text-align:left;"><span style="text-decoration:underline;"><strong>How et al. (In Review) Annals of Glaciology</strong></span> <em><i style="font-weight:400;">- Observations of calving styles at </i>Tunabreen and the role of submarine melting in calving dynamics</em></p>
+<p style="text-align:left;"><span style="text-decoration:underline;"><strong><a href="https://doi.org/10.1017/aog.2018.28" target="_blank">How et al. (2019) Annals of Glaciology</a></strong></span> <em><i style="font-weight:400;">- Observations of calving styles at </i>Tunabreen and the role of submarine melting in calving dynamics</em></p>
 
-<p style="text-align:left;"><a href="https://www.geosci-instrum-method-data-syst-discuss.net/gi-2018-28/" target="_blank" rel="noopener">How et al. (2018) Geoscientific Instrumentation, Methods and Data Systems</a><a href="https://www.geosci-instrum-method-data-syst-discuss.net/gi-2018-28/" target="_blank" rel="noopener"> </a><em>- Presenting the PyTrx toolbox and its capabilities with oblique imagery of glacial environments</em></p>
+<p style="text-align:left;"><a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00021/full" target="_blank" rel="noopener">How et al. (2020) Frontiers in Earth Science</a><em>- Presenting the PyTrx toolbox and its capabilities with oblique imagery of glacial environments</em></p>
 
 <p style="text-align:left;"><a href="https://github.com/PennyHow/PyTrx" target="_blank" rel="noopener">PyTrx</a> <em>- PyTrx toolbox code repository, hosted on GitHub</em></p>

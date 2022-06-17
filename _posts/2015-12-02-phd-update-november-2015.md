@@ -28,7 +28,10 @@ The levels in these pond clusters can be compared to our borehole data, which re
 
 Previous understanding suggests that the surface velocity of Kronebreen is controlled by 'stick' and 'slide' points on the glacier bed, dictated by local bed pressure. But here, it looks like the pressure at the bed is actually relatively uniform and the surface velocity is primarily controlled by the topography of the bed e.g. topographic high points on the bed act as 'pinning points'.
 
-<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/ponds_press_graph21.jpg?raw=true" alt="Pond levels (tracked from camera 5 on Garwoodtoppen) compared to bed water pressure (sensor installed using hot water borehole drilling) from May to September 2014. Note the coinciding drainage event at back cluster and the bed water pressure drop on 28th June." width="1500" align="aligncenter" /></a><br> *Pond levels (tracked from camera 5 on Garwoodtoppen) compared to bed water pressure (sensor installed using hot water borehole drilling) from May to September 2014. Note the coinciding drainage event at back cluster and the bed water pressure drop on 28th June (click to enlarge).*
+https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/ponds_press_graph.jpg
+
+
+<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/ponds_press_graph.jpg?raw=true" alt="Pond levels (tracked from camera 5 on Garwoodtoppen) compared to bed water pressure (sensor installed using hot water borehole drilling) from May to September 2014. Note the coinciding drainage event at back cluster and the bed water pressure drop on 28th June." width="1500" align="aligncenter" /></a><br> *Pond levels (tracked from camera 5 on Garwoodtoppen) compared to bed water pressure (sensor installed using hot water borehole drilling) from May to September 2014. Note the coinciding drainage event at back cluster and the bed water pressure drop on 28th June (click to enlarge).*
 
 The beginning of the plume activity at the glacier front signifies a key change in the calving regime at Kronebreen, with high calving rates concentrated around where the two plumes emerge at the fjord surface. This creates embayments, or notches, in the glacier front. An ice headlands develops in between the two plumes where the calving rate is slower.
 

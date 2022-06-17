@@ -45,7 +45,7 @@ tags:
 <!-- /wp:list -->
 
 <!-- wp:image {"align":"center","id":7750,"width":500,"height":554,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="hhttps://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-83509-1/MediaObjects/41598_2021_83509_Fig1_HTML.png?raw=true" width="500" /><figcaption>Figure 1 from <strong><span style="text-decoration:underline;"><a href="https://www.nature.com/articles/s41598-021-83509-1" target="_blank" rel="noreferrer noopener">How et al. (2021)</a></span></strong> showing the overview of the 2017 ice marginal lake inventory of Greenland. Each point represents a lake - blue points indicate a lake adjacent to the ice sheet margin, and orange points are lakes that share a margin with either an ice cap or mountain glacier. </figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-83509-1/MediaObjects/41598_2021_83509_Fig1_HTML.png?raw=true" width="500" /><figcaption>Figure 1 from <strong><span style="text-decoration:underline;"><a href="https://www.nature.com/articles/s41598-021-83509-1" target="_blank" rel="noreferrer noopener">How et al. (2021)</a></span></strong> showing the overview of the 2017 ice marginal lake inventory of Greenland. Each point represents a lake - blue points indicate a lake adjacent to the ice sheet margin, and orange points are lakes that share a margin with either an ice cap or mountain glacier. </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"justify"} -->

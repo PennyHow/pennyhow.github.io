@@ -19,7 +19,7 @@ tags:
 <p style="text-align:justify;">A snowflake will have one of a specific number of structures - such as dinner plates, branch networks, columns and 'flower' patterns - but with different detailing that makes it unique to any other. Up close, these internal symmetries and dendrites appear intricate and beautiful and is what captured the attention of Wilson Bentley as a fifteen year old boy when he first put a snowflake under a microscope.</p>
 
 
-<img src="hhttps://i.guim.co.uk/img/media/dc22bb1caab90e0779014628bfb0644760795877/0_94_5060_3030/master/5060.jpg?width=620&quality=85&auto=format&fit=max&s=16faef9419ba46942cbf0327a0fad6c8" alt="Wilson Bentley's pictures of a series of plate snowflakes, circa 1902. Source: The Guardian" width="1500" align="aligncenter" /> <br>*'Under the microscope, I found that snowflakes were miracles of beauty and it seemed a shame that this beauty should not be seen and appreciated by others'. A series of plate snowflakes captured by Wilson Bentley. Source: <a href="https://www.theguardian.com/artanddesign/jonathanjonesblog/2015/dec/23/the-strange-tale-of-snowflake-man-wilson-bentley" target="_blank">The Guardian</a>*
+<img src="https://i.guim.co.uk/img/media/dc22bb1caab90e0779014628bfb0644760795877/0_94_5060_3030/master/5060.jpg?width=620&quality=85&auto=format&fit=max&s=16faef9419ba46942cbf0327a0fad6c8" alt="Wilson Bentley's pictures of a series of plate snowflakes, circa 1902. Source: The Guardian" width="1500" align="aligncenter" /> <br>*'Under the microscope, I found that snowflakes were miracles of beauty and it seemed a shame that this beauty should not be seen and appreciated by others'. A series of plate snowflakes captured by Wilson Bentley. Source: <a href="https://www.theguardian.com/artanddesign/jonathanjonesblog/2015/dec/23/the-strange-tale-of-snowflake-man-wilson-bentley" target="_blank">The Guardian</a>*
 
 <p style="text-align:justify;">Wilson Bentley lived all of his life in Mill Brook Valley, a small place in Vermont (New Hampshire, USA) which lies adjacent to the Green Mountains of Vermont and commonly receives high snowfall in the year. On receiving a microscope as a birthday present from his parents, Bentley became obsessed with looking at snow crystals gathered from around the town. A couple of years later he attached a bellows camera to his microscope and began photographing snow crystals. Microscope photography is now referred to as photomicrography, and Bentley was the first person in the world to perfect this technique.</p>
 
@@ -37,7 +37,7 @@ tags:
 
 <hr>
 
-<h3>Further reading<h3>
+<h3>Further reading</h3>
 
 <a href="https://www.theguardian.com/science/gallery/2010/jan/21/first-photographs-snowflakes-wilson-bentley" target="_blank">This article</a> and <a href="https://www.theguardian.com/artanddesign/jonathanjonesblog/2015/dec/23/the-strange-tale-of-snowflake-man-wilson-bentley" target="_blank">this article</a> from the Guardian on Bentley's photography
 

@@ -32,9 +32,9 @@ tags:
 
 <p style="text-align:justify;">*Check out <a href="http://rgsweather.com/" target="_blank">RGSweather</a> for information on the Reigate Grammar School Weather Station, an automated weather station which collects high-resolution data on temperature, rainfall, barometric pressure, humidity, wind speed, wind direction and sunshine hours in the south of the UK. RGSweather are particularly dedicated to stimulating interest in the weather, with regular blog posts and information.*</p>
 
-<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/dsc00685.jpg?raw=true" alt="The front of Paulabreen, with glaciology students on snow scooters for scale (March 2016)" width="800" align="aligncenter" /><br> *A section of Paulabreen's calving front with glaciology students on snow scooters for scale (March 2016)*
+<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/students_at_paulabreen_01.jpg?raw=true" alt="The front of Paulabreen, with glaciology students on snow scooters for scale (March 2016)" width="800" align="aligncenter" /><br> *A section of Paulabreen's calving front with glaciology students on snow scooters for scale (March 2016)*
 
-<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/dsc00630.jpg?raw=true" alt="Glaciology students examining the ice exposure at Paulabreen (March 2016)" width="800" align="aligncenter" /><br> *Glaciology students examining the ice exposure at west side of Paulabreen (March 2016)*
+<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/students_at_paulabreen_02.jpg?raw=true" alt="Glaciology students examining the ice exposure at Paulabreen (March 2016)" width="800" align="aligncenter" /><br> *Glaciology students examining the ice exposure at west side of Paulabreen (March 2016)*
 
 <img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/students_at_paulabreen_03.jpg?raw=true" alt="Glaciology students studying a section of the ice exposure at Paulabreen. The section here is approximately 6 m high (March 2016)" width="800" align="aligncenter" /><br> *Glaciology students studying a section of the ice exposure at Paulabreen. The section here is approximately 6 m high (March 2016)*
 
@@ -68,4 +68,4 @@ tags:
 
 <p style="text-align:justify;"><span style="text-decoration:underline;"><strong>Internal ice fractures.</strong></span> Cracks or faults in the ice that relate to cooling of the ice as it meets relatively cold winter air temperatures, and strong pressure gradients near the free ice face. These features are not directly related to the surge of Paulabreen.</p>
 
-<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/dpaulabreen_fracture.jpg?raw=true" alt="Ice fracturing at Paulabreen (March 2016)" width="800" align="aligncenter" /><br> *Ice fracturing at Paulabreen. Image here shows 1 x 0.6 m section of the ice exposure (March 2016)*
+<img src="https://github.com/PennyHow/pennyhow.github.io/blob/master/assets/images/paulabreen_fracture.jpg?raw=true" alt="Ice fracturing at Paulabreen (March 2016)" width="800" align="aligncenter" /><br> *Ice fracturing at Paulabreen. Image here shows 1 x 0.6 m section of the ice exposure (March 2016)*
