@@ -10,7 +10,7 @@ main:
   - title: "About"
     url: /about/ 
   - title: "CV"
-    url: /cv/
+    url: https://github.com/PennyHow/pennyhow.github.io/raw/master/assets/penelope_how_cv.pdf
 
 
 #docs:
