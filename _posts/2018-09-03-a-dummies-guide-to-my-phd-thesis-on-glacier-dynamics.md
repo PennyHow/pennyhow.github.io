@@ -36,9 +36,12 @@ tags:
 <b>Goal:</b> To understand processes linked to dynamical change at tidewater glaciers.
 
 <b>Three main aims:</b>
-1. Examine subglacial hydrology and its influence on glacier dynamics at Kronebreen, a fast-flowing, tidewater glacier in Svalbard
-2. Investigate controls on terminus conditions and calving processes at Tunabreen, a surge-type, tidewater glacier in Svalbard
-3. Develop a suite of photogrammetry tools for obtaining measurements from oblique time-lapse imagery
+
+<ol>
+	<li style="text-align:justify;">Examine subglacial hydrology and its influence on glacier dynamics at Kronebreen, a fast-flowing, tidewater glacier in Svalbard</li>
+	<li style="text-align:justify;">Investigate controls on terminus conditions and calving processes at Tunabreen, a surge-type, tidewater glacier in Svalbard</li>
+	<li style="text-align:justify;">Develop a suite of photogrammetry tools for obtaining measurements from oblique time-lapse imagery</li>
+</ol>
 
 <b>Techniques used:</b> Monoscopic time-lapse photogrammetry, hot water borehole drilling, bathymetry surveying, satellite feature-tracking, passive seismic monitoring, melt/runoff modelling
 
@@ -108,9 +111,9 @@ Terminus conditions at Tunabreen were examined on two differing temporal scales:
 
 This thesis is freely available to download from the <a href="https://www.era.lib.ed.ac.uk/handle/1842/31103" target="_blank" rel="noopener">Edinburgh Research Archive</a>
 
-<p style="text-align:left;"><span style="text-decoration:underline;"><strong><a href="https://www.the-cryosphere.net/11/2691/2017/" target="_blank" rel="noopener">How et al. (2017) The Cryosphere </a></strong></span><i style="font-weight:400;">- Examining the subglacial hydrology of Kronebreen and its influence on glacier dynamics </i></p>
+<p style="text-align:left;"><span style="text-decoration:underline;"><a href="https://www.the-cryosphere.net/11/2691/2017/" target="_blank" rel="noopener">How et al. (2017) The Cryosphere </a></span><i style="font-weight:400;">- Examining the subglacial hydrology of Kronebreen and its influence on glacier dynamics </i></p>
 
-<p style="text-align:left;"><span style="text-decoration:underline;"><strong><a href="https://doi.org/10.1017/aog.2018.28" target="_blank">How et al. (2019) Annals of Glaciology</a></strong></span> <em><i style="font-weight:400;">- Observations of calving styles at </i>Tunabreen and the role of submarine melting in calving dynamics</em></p>
+<p style="text-align:left;"><span style="text-decoration:underline;"><a href="https://doi.org/10.1017/aog.2018.28" target="_blank">How et al. (2019) Annals of Glaciology</a></span> <em><i style="font-weight:400;">- Observations of calving styles at </i>Tunabreen and the role of submarine melting in calving dynamics</em></p>
 
 <p style="text-align:left;"><a href="https://www.frontiersin.org/articles/10.3389/feart.2020.00021/full" target="_blank" rel="noopener">How et al. (2020) Frontiers in Earth Science</a><em>- Presenting the PyTrx toolbox and its capabilities with oblique imagery of glacial environments</em></p>
 
