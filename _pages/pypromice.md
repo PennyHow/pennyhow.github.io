@@ -15,7 +15,7 @@ author_profile: true
 
 <h2> How pypromice came to be </h2>
 
-<p style="text-align:justify;">pypromice first came to be in June 2022 as an merge of repositories that handled and processed data from automated weather stations. Lots of floating code suddenly had a home under a unifying source. </p>
+<p style="text-align:justify;">pypromice first came to be in June 2022 as a merge of repositories that handled and processed data from automated weather stations. Lots of floating code suddenly had a home under a unifying source. </p>
 
 <p style="text-align:justify;">There were a couple of motivations to do this, the main one being that our department had recently <a href="https://eng.geus.dk/about/news/news-archive/2020/december/geus-takes-over-american-climate-stations-on-the-greenland-ice-sheet">assumed responsibility of a new set of weather stations</a> called GC-Net, which are a different station design. Our current processing only accomodated for our current PROMICE weather stations, and therefore the workflow needed to be built out in order to process data from these new additions.</p>
 
