@@ -17,7 +17,6 @@ title: Penny How
 email: pho@geus.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Data scientist and Glaciologist.
-twitter_username: DrPennyHow
 github_username: PennyHow
 minimal_mistakes_skin: air
 search: true
@@ -63,9 +62,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://pennyhow.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DrPennyHow"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PennyHow"
@@ -75,9 +71,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DrPennyHow"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PennyHow"
